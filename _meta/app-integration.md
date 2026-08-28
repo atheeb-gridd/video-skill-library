@@ -1,0 +1,96 @@
+---
+name: app-integration
+description: How an external app (the Electron Claude Video Editor) must mount this library so the skills' own paths resolve. Read before wiring cwd or settingSources.
+type: reference
+---
+
+# Mounting this library from an app
+
+Verified 2026-08-28 against SDK 0.3.247. Two findings: one confirmed good, one a trap.
+
+## Confirmed: skill discovery needs `settingSources: ['project']`
+
+`settingSources: []` hides every skill in this vault. With `['project']` and a `.claude`
+directory reachable from `cwd`, all five appear in `system`/`init`:
+
+| `settingSources` | Skills visible |
+|---|---|
+| `[]` | none of ours |
+| `['project']` | `talking-head-editor`, `video-editing`, `video-motion`, `video-sound-design`, `video-subtitles` |
+
+`Options.skills` is only a **filter over discovered skills** — it cannot substitute for
+discovery. Discovery comes from `settingSources`.
+
+## The trap: discovery is not resolution
+
+**Every path inside these skills is vault-root-relative.** The loaders and
+`talking-head-editor` reference:
+
+```
+_meta/pipeline.md          _meta/execution-contract.md      _meta/tags.md
+_templates/design-cuts.md  _templates/style-profile.md
+skills/EDITING/rules/      skills/MOTION/SKILL.md           ...
+references/timebase.md     scripts/ingest.sh
+```
+
+So symlinking only `.claude` into a project folder and setting `cwd` to that project makes
+the skill **load and then fail**: it is told to read `_meta/execution-contract.md`, which
+does not exist relative to the project.
+
+`additionalDirectories: [libraryPath]` does **not** fix this. It grants read *permission*;
+it does not change how a relative path resolves.
+
+This fails silently and the output still looks plausible — a spec written against a contract
+the model never read. That is the worst shape of bug this vault can produce.
+
+## The fix: symlink the resolvable roots, not just `.claude`
+
+Per project, alongside `.claude`:
+
+```
+<project>/
+├── .claude      -> <library>/.claude        # discovery
+├── _meta        -> <library>/_meta          # resolution
+├── _templates   -> <library>/_templates     # resolution
+├── skills       -> <library>/skills         # resolution
+├── references   -> <library>/.claude/skills/talking-head-editor/references
+├── scripts      -> <library>/scripts
+├── rules/                                   # REAL — this project's derived rules
+├── _profiles/                               # REAL — not the library's
+├── _projects/                               # REAL — not the library's
+└── edits/
+```
+
+`cwd` stays the project folder, so design documents keep writing relative paths that land
+in the project. Symlinks are read-only in practice; nothing writes through them.
+
+**Do not** symlink `_profiles/` or `_projects/` — the library has its own and they would
+collide with the project's.
+
+## Path mismatch to resolve explicitly
+
+`talking-head-editor` writes its profile to `_profiles/<name>/PROFILE.md`. The app's PRD
+puts it at `rules/PROFILE.md`. Both are defensible; pick one **in the stage prompt** and
+state it, because the orchestrator supplies that prompt and can override the skill's
+default. Silence here means two profile locations and neither authoritative.
+
+## Reuse rather than re-derive
+
+Two things the app is likely to rewrite from scratch that already exist, verified by
+execution:
+
+- **`references/timebase.md`** — the keep-list model, `src_to_out` / `out_to_src`, and the
+  invariants a `timeline.json` validator needs. Carries measured findings: stream copy
+  returned **3.251 s for a requested 2.000 s**; `select`'s `between()` is inclusive on both
+  ends so the frame-accurate form is `between(n, a, b-1)`; omitting `setpts` does not drift
+  a cut, it **cancels** it (420 frames became 600).
+- **`scripts/ingest.sh`** — ffprobe of real fps, audio extraction at both 16k mono and 48k
+  stereo, loudness, and silence detection for the subtractive pass. Note the trap it
+  documents: `-v error` silences `silencedetect`, so the dead-air check returns `0.000`
+  with no error at all.
+
+## Counts
+
+**349 rule notes** — EDITING 81 · MOTION 79 · SOUND-DESIGN 137 · SUBTITLES 52. A
+`find`-based count of `*.md` returns 359 because each library also holds `SKILL.md`,
+`INDEX.md` and `_kt/` extraction notes. Only `skills/*/rules/*.md` are rule notes.
