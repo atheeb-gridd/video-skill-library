@@ -93,6 +93,21 @@ execution:
   documents: `-v error` silences `silencedetect`, so the dead-air check returns `0.000`
   with no error at all.
 
+## fps is a rational, never a decimal
+
+`timeline.json` and every design document store **`fps_num` / `fps_den`**, not a scalar
+`fps`. A parser may accept a bare integer as shorthand for `n/1`; it must never accept
+`29.97`.
+
+Reason, measured in `references/timebase.md` §4: `round(s * 29.97)` does not round-trip —
+**622 of 18000** frame times at 29.97 land on the wrong frame. `round(s * 30000/1001)`
+round-trips cleanly across 5,000,000 frames. Assuming 30 for a 30000/1001 file drifts
+**0.599 s / 18 frames over ten minutes**, which is more than enough to put a sound cue on
+the wrong word.
+
+`timebase.md`'s reference implementation already took `fps_num`/`fps_den`; the templates
+lagged behind with a scalar and were corrected on 2026-08-28. The app caught this.
+
 ## Counts
 
 **349 rule notes** — EDITING 81 · MOTION 79 · SOUND-DESIGN 137 · SUBTITLES 52. A

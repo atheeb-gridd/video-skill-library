@@ -6,7 +6,8 @@ built: "{{YYYY-MM-DD}}"
 references:
   - file: "{{path}}"
     duration: "{{MM:SS}}"
-    fps: {{30}}
+    fps_num: {{30000}}
+    fps_den: {{1001}}
 confidence: {{high|medium|sparse}}
 ---
 
@@ -19,7 +20,7 @@ confidence: {{high|medium|sparse}}
 | | |
 |---|---|
 | Aspect / resolution | {{1920x1080}} |
-| fps | {{30}} |
+| fps | {{30000/1001 = 29.97}} — store as a rational, never a decimal |
 | Median duration | {{MM:SS}} |
 | Loudness target | {{-14 LUFS}} |
 

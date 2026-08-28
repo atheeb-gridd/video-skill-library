@@ -5,7 +5,8 @@ type: design-doc
 skill: motion
 profile: "[[{{PROFILE_NAME}}]]"
 depends_on: "[[{{PROJECT}} — cuts]]"
-fps: {{30}}
+fps_num: {{30000}}
+fps_den: {{1001}}
 engine: hyperframes
 status: draft
 ---

@@ -5,7 +5,8 @@ type: design-doc
 skill: editing
 profile: "[[{{PROFILE_NAME}}]]"
 source_media: "{{path}}"
-fps: {{30}}
+fps_num: {{30000}}   # 30 -> 30/1 · 29.97 -> 30000/1001 · never a bare 29.97
+fps_den: {{1001}}
 target_duration: "{{MM:SS}}"
 status: draft
 ---

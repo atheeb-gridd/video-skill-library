@@ -5,7 +5,8 @@ type: design-doc
 skill: sound-design
 profile: "[[{{PROFILE_NAME}}]]"
 depends_on: ["[[{{PROJECT}} — cuts]]", "[[{{PROJECT}} — motion]]"]
-fps: {{30}}
+fps_num: {{30000}}
+fps_den: {{1001}}
 loudness_target: "{{-14 LUFS}}"
 status: draft
 ---
