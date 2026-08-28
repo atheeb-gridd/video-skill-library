@@ -534,6 +534,27 @@ Blanket warning: *"Avoid transitions that create visible repeating geometric pat
 
 ## 5. Audio model
 
+> **CORRECTION (verified by measurement, 2026-08-28).** `astats`'s `reset` parameter is a
+> **frame count, not seconds** — `-h filter=astats` says "number of frames". A value like
+> `reset=0.4` truncates to `0`, which means *never reset*, so the filter reports a single
+> running cumulative figure that looks like a level trace and is not one. For a windowed
+> RMS curve, set the frame size explicitly first:
+> `asetnsamples=n=1600,astats=metadata=1:reset=1` (1600 samples @48kHz ≈ 33ms per frame).
+
+> **CORRECTION (verified by measurement, 2026-08-28).** The `sidechaincompress` threshold
+> numbers previously given here are **not portable** — the threshold gates on the *key*
+> signal's level, so one fixed value behaves completely differently on a quiet versus a
+> loud voice. Measured against a key whose speech RMS was −22.4 dBFS: `threshold=0.1`
+> produced a 1.3 dB duck, `threshold=0.05` produced 6.3 dB. A hardcoded `0.03` would be a
+> ~10 dB hole on a quiet voice and do nothing on a loud one. **Measure the dialogue's RMS
+> first, then set `threshold` ≈ 4 dB below it.** See the
+> `talking-head-editor` skill's `sound-design-pass.md` for the measured sweep table.
+>
+> Also measured: `afade`/`acrossfade`'s default `curve=tri` dips **3.97 dB** at a join on
+> uncorrelated material, not the ~3 dB stated below. Use `curve=qsin` (equal-power,
+> measured 1.07 dB) for any join you do not want to hear.
+
+
 ### 5.1 Where audio lives
 
 Audio is `<audio>` (or an unmuted `<video>` declaring `data-has-audio="true"`) placed as a clip like any other, with `data-start` / `data-duration` / `data-media-start` in seconds. Conventions:
@@ -1879,7 +1900,7 @@ Confirmed options, from `-h filter=sidechaincompress`: **[verified]**
 > Then verify rather than trust it, using §7A's measurement filters — `silencedetect` on the voice gives the trigger windows, `astats` with a reset interval gives the RMS actually achieved inside and outside them:
 > ```bash
 > ffmpeg -i vo.wav -af silencedetect=noise=-35dB:d=0.4 -f null -
-> ffmpeg -i bed_ducked.wav -af astats=metadata=1:reset=0.4 -f null - 2>&1 | grep RMS
+> ffmpeg -i bed_ducked.wav -af asetnsamples=n=1600,astats=metadata=1:reset=1 -f null - 2>&1 | grep RMS
 > ```
 > `sfx-ducking-keyframed-dip` specs `release=400` and a 0.5 lane factor (≈ −6 dB); the 200–500 ms band is the one to stay inside.
 
