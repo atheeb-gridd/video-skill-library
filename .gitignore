@@ -47,6 +47,7 @@ _projects/**
 # record of what was decided, and the feedback loop when a rule turns out
 # wrong. Small markdown, worth versioning. Everything else in a project
 # folder — footage, renders, scratch, caches — stays local.
+!_projects/README.md
 !_projects/*/
 !_projects/*/design/
 !_projects/*/design/*.md
