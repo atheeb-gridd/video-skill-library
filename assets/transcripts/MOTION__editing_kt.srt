@@ -1,0 +1,868 @@
+1
+00:00:00,000 --> 00:00:05,380
+ Stell dir vor, dein Videoschnitt ist so gut, dass deine Zuschauer nicht anders können, als bis zum Schluss zu schauen.
+
+2
+00:00:05,520 --> 00:00:06,820
+ Das wünsche ich mir auch für dich.
+
+3
+00:00:06,980 --> 00:00:12,060
+ Deshalb habe ich meine jahrelange Erfahrung im Videoschnitt in einer Formel mit vier Säulen zusammengefasst.
+
+4
+00:00:12,180 --> 00:00:18,500
+ Du musst dir heute übrigens Notizen machen, denn wir gehen viel tiefer als nur grundlegende Dinge wie das Entfernen von ungenutzten Stellen.
+
+5
+00:00:19,000 --> 00:00:20,680
+ Videoschnitt ist so viel mehr als das.
+
+6
+00:00:21,560 --> 00:00:24,860
+ Und seien wir ehrlich, dein Video verdient so viel mehr als das.
+
+7
+00:00:26,240 --> 00:00:31,100
+ Ein großartiger Videoschnittstil kann dir eine perfekte Wiedergabezeit und Millionen von Aufrufen bescheren,
+
+8
+00:00:31,380 --> 00:00:34,560
+ aber er kann auch zu schrecklichen Aufrufzahlen und geplatzten Träumen führen.
+
+9
+00:00:34,760 --> 00:00:37,680
+ Um herauszufinden, warum das so ist, fangen wir mit diesem Video an.
+
+10
+00:00:37,780 --> 00:00:38,020
+ Punkt.
+
+11
+00:00:41,880 --> 00:00:46,480
+ Das Video ist einfach nur dieser Typ Sam, der in seinem Auto redet und dann trainiert.
+
+12
+00:00:47,060 --> 00:00:52,480
+ Das Video ist 26 Minuten lang, hat aber nur 17 Schnitte und keinerlei weitere Bearbeitung.
+
+13
+00:00:52,480 --> 00:00:56,340
+ Wie viele Aufrufe, wie viele Abonnenten wird er deiner Meinung nach haben?
+
+14
+00:00:57,880 --> 00:01:01,080
+ Das bedeutet also, dass der Videoschnitt optional ist?
+
+15
+00:01:01,240 --> 00:01:01,560
+ Richtig.
+
+16
+00:01:01,820 --> 00:01:02,160
+ Moment.
+
+17
+00:01:02,540 --> 00:01:03,000
+ Langsam.
+
+18
+00:01:03,180 --> 00:01:04,120
+ Darum geht es hier nicht.
+
+19
+00:01:04,360 --> 00:01:05,700
+ Sam hat tatsächlich geschnitten.
+
+20
+00:01:05,900 --> 00:01:09,120
+ Er hat alle langweiligen Stellen rausgeschnitten, die die Zuschauer nicht sehen wollten.
+
+21
+00:01:09,300 --> 00:01:13,600
+ Er belies es dabei, denn seine Zuschauer sind nicht auf der Suche nach einem super stimulierenden Erlebnis.
+
+22
+00:01:13,800 --> 00:01:16,640
+ Sie möchten einfach nur das Gefühl haben, Zeit mit jemandem zu verbringen.
+
+23
+00:01:16,640 --> 00:01:22,660
+ Viele schnelle Schnitte und auffällige Animationen würden dieses authentische Erlebnis, das sich der Zuschauer wünscht, zunichte machen.
+
+24
+00:01:22,840 --> 00:01:29,940
+ Und rate mal, eine Unterbrechung des eigentlichen Anliegens des Zuschauers ist der beste Weg, um ihn dazu zu bringen, das Video nicht mehr anzusehen.
+
+25
+00:01:30,160 --> 00:01:36,180
+ Während Sam mit durchschnittlich 90 Sekunden zwischen den Schnitten schneidet, macht Mr. Beast genau das Gegenteil.
+
+26
+00:01:36,460 --> 00:01:39,580
+ Was solltest du also tun, wenn beide Schnittstile funktionieren?
+
+27
+00:01:39,760 --> 00:01:43,260
+ Überlege dir zunächst, welches Erlebnis sich deine Zuschauer wünschen.
+
+28
+00:01:43,260 --> 00:01:48,660
+ Sams Schnitt zeigt uns, dass Millionen von Menschen YouTube besuchen, um das Gefühl zu haben, mit jemandem abzuhängen.
+
+29
+00:01:48,840 --> 00:01:53,240
+ Mr. Beast's rasanter Stil zeigt, dass sehr viele Leute YouTube zur Unterhaltung nutzen.
+
+30
+00:01:53,480 --> 00:01:56,460
+ Alle deine Schnittentscheidungen tragen zu diesem Erlebnis bei.
+
+31
+00:01:56,640 --> 00:02:03,200
+ Wenn du beispielsweise alle Pausen herausschneidest, damit du durchgehend sprichst, ist das mit Abstand das Wichtigste für die Unterhaltung.
+
+32
+00:02:03,500 --> 00:02:05,400
+ Aber es geht zu Lasten der Authentizität.
+
+33
+00:02:05,560 --> 00:02:08,580
+ Ein effektiver Schnittstil berücksichtigt all diese Entscheidungen.
+
+34
+00:02:08,580 --> 00:02:17,860
+ Während ich euch nun die Gründe für die Bearbeitung meiner ersten drei Uploads erkläre, macht euch bitte Notizen darüber, was ihr euren eigenen Videos hinzufügen solltet, je nachdem, was am besten zu eurem Publikum passt.
+
+35
+00:02:18,020 --> 00:02:20,520
+ Dieses Video ist keine Ansammlung von Tutorials.
+
+36
+00:02:20,620 --> 00:02:23,100
+ Es ist ein Handbuch für süchtig machendes Bearbeiten.
+
+37
+00:02:23,320 --> 00:02:29,160
+ Betrachtet es als einen grundlegenden Ausgangspunkt, um zu wissen, welche Tutorials ihr euch überhaupt ansehen solltet.
+
+38
+00:02:30,440 --> 00:02:32,560
+ Ich möchte, dass ihr euch das anseht.
+
+39
+00:02:32,700 --> 00:02:33,740
+ Hier gibt es ein Problem.
+
+40
+00:02:34,760 --> 00:02:38,280
+ Dies ist die Zeitleiste eines typisch bearbeiteten YouTube-Videos.
+
+41
+00:02:38,440 --> 00:02:40,760
+ Ein paar Schnitte haben unnötige Teile entfernt.
+
+42
+00:02:40,900 --> 00:02:44,920
+ Hier gab es eine Abschweifung, die für den eigentlichen Zweck des Videos nicht wirklich relevant war.
+
+43
+00:02:45,080 --> 00:02:47,760
+ Diese Schnitte haben Pausen und schlechte Aufnahmen entfernt.
+
+44
+00:02:47,860 --> 00:02:52,180
+ Aber in seiner jetzigen Form ist dieses Video dazu verdammt, sein Potenzial nicht auszuschöpfen.
+
+45
+00:02:52,320 --> 00:02:56,600
+ Der Grund dafür ist, dass dieses Video seine visuellen Elemente nicht nutzt, um die Aufmerksamkeit zu maximieren.
+
+46
+00:02:56,600 --> 00:02:57,720
+ Denkt mal darüber nach.
+
+47
+00:02:57,880 --> 00:03:02,060
+ Wenn ihr eine Veränderung in eurem Blickfeld seht, wie sich zum Beispiel etwas abrupt bewegt, erregt das eure Aufmerksamkeit.
+
+48
+00:03:02,200 --> 00:03:04,120
+ Dasselbe gilt, wenn ihr euch ein Video ansieht.
+
+49
+00:03:04,260 --> 00:03:07,900
+ Und hier gibt es innerhalb einer Minute nur drei verschiedene Dinge, die man sich ansehen kann.
+
+50
+00:03:08,040 --> 00:03:09,020
+ Irgendwie langweilig.
+
+51
+00:03:09,180 --> 00:03:15,900
+ Wenn das Video jedoch alle paar Sekunden zwischen E-Roll, B-Roll und anderem Filmmaterial wechseln würde, würde die Aufmerksamkeit viel besser aufrechterhalten.
+
+52
+00:03:16,120 --> 00:03:19,560
+ Allerdings gibt es auch einen Nachteil, wenn zu oft gewechselt wird, was auf dem Bildschirm zu sehen ist.
+
+53
+00:03:19,560 --> 00:03:24,780
+ Achten Sie darauf, während wir uns ansehen, wie verschiedene Arten von Filmmaterial verwendet werden sollten, um die Interaktion zu maximieren.
+
+54
+00:03:24,920 --> 00:03:25,280
+ E-Roll
+
+55
+00:03:25,280 --> 00:03:28,520
+ In diesem Video können Sie das Motiv gleichzeitig sehen und hören.
+
+56
+00:03:28,760 --> 00:03:33,040
+ Es wirkt persönlich und hält die Aufmerksamkeit sehr gut aufrecht, wenn Sie selbstbewusst sprechen.
+
+57
+00:03:33,260 --> 00:03:36,040
+ Verwenden Sie es für kurze Zeit, wenn Sie etwas Wichtiges sagen.
+
+58
+00:03:36,220 --> 00:03:36,600
+ E-Roll
+
+59
+00:03:36,600 --> 00:03:40,400
+ Dies ist zusätzliches Filmmaterial, das getrennt vom Audiomaterial aufgenommen wurde.
+
+60
+00:03:40,560 --> 00:03:46,600
+ Es erstellt eine visuelle Darstellung Ihrer Worte, sodass der Zuschauer sehen kann, wovon Sie sprechen, anstatt nur auf Ihr Gesicht schauen zu müssen.
+
+61
+00:03:46,600 --> 00:03:50,300
+ Auf diese Weise können Sie die Dinge auch viel klarer und schneller vermitteln.
+
+62
+00:03:50,460 --> 00:03:53,720
+ Es ist interessanter als E-Roll, also verwenden Sie es so oft wie möglich.
+
+63
+00:03:53,960 --> 00:03:59,200
+ Einige Varianten von B-Roll sind Archivmaterial, das im Grunde eine einfache Version ist, und animierte Grafiken.
+
+64
+00:03:59,200 --> 00:04:16,380
+ Nö, ich habe beim Billiardtisch eine verdächtig aussehende Matheaufgabe gefunden und anscheinend muss ich die Billiardkugeln und die Zahlen darauf verwenden, um eine Lösung zu finden.
+
+65
+00:04:16,440 --> 00:04:20,780
+ Punkt. Ihr müsst wirklich verstehen, wie entscheidend diese Schnittentscheidung war.
+
+66
+00:04:21,360 --> 00:04:25,080
+ Das war ein wichtiger, aber langweiliger Moment in der Geschichte des Videos.
+
+67
+00:04:25,380 --> 00:04:33,820
+ Jeder Versuch, in diesem Moment der Roll oder normales B-Roll zu verwenden, wäre entweder zu langsam oder furchtbar verwirrend, was in beiden Fällen Zuschauer kosten würde.
+
+68
+00:04:33,960 --> 00:04:36,840
+ Aber eine Animation erklärte es glasklar und schnell.
+
+69
+00:04:37,220 --> 00:04:41,820
+ Das ist die Art von Schnittentscheidung, die man treffen muss, um ein fesselndes Video zu erstellen.
+
+70
+00:04:42,000 --> 00:04:47,260
+ Wenn ihr meinem Kanal folgt, dann ist euch wahrscheinlich aufgefallen, dass ich nur drei Videos hochgeladen habe.
+
+71
+00:04:47,700 --> 00:04:52,460
+ Und damit habe ich über 300.000 Aufrufe und etwa 13.000 Abonnenten bekommen.
+
+72
+00:04:52,620 --> 00:04:56,820
+ Was es noch verrückter macht, ist, dass ich diese Videos nirgendwo beworben habe.
+
+73
+00:04:57,000 --> 00:05:04,060
+ Ich habe sie gerade auf YouTube hochgeladen und sie haben sich dank meines über die Jahre erworbenen YouTube-Wissens ganz von allein großartig entwickelt.
+
+74
+00:05:04,580 --> 00:05:11,360
+ Letztes Jahr habe ich einen Kanal eröffnet, der auf 60.000 Abonnenten und über 24 Millionen Aufrufe angewachsen ist.
+
+75
+00:05:12,360 --> 00:05:17,140
+ Dementsprechend habe ich viele Kommentare und E-Mails von Leuten bekommen, die mich um Hilfe gebeten haben.
+
+76
+00:05:17,760 --> 00:05:21,240
+ Ich wollte euch wissen lassen, dass ich meinen Kalender unten veröffentliche.
+
+77
+00:05:21,540 --> 00:05:23,280
+ Er ist aber nur für ernsthafte YouTuber.
+
+78
+00:05:23,560 --> 00:05:29,400
+ Wenn das für euch interessant klingt, könnt ihr unten einen Call buchen, um zu erfahren, wie ihr euren YouTube-Kanal ausbauen könnt.
+
+79
+00:05:29,600 --> 00:05:33,400
+ Übrigens sind die Plätze im Moment extrem begrenzt, also verpasst das nicht.
+
+80
+00:05:33,720 --> 00:05:38,900
+ Ihr erinnert euch wahrscheinlich noch an vorhin, dass es einen Nachteil hat, ständig zwischen verschiedenen Clips hin- und herzuschneiden.
+
+81
+00:05:38,900 --> 00:05:43,060
+ Die ganze visuelle Vielfalt kann schnell zu visuellem Brei werden, wenn man es falsch macht.
+
+82
+00:05:43,240 --> 00:05:48,460
+ Nehmen wir an, ihr wollt ansprechend sein, also versucht ihr, so viel wie möglich zwischen verschiedenen Clips hin- und herzuschneiden.
+
+83
+00:05:48,620 --> 00:05:50,160
+ Ihr lauft Gefahr, die Dinge zu verwirren.
+
+84
+00:05:50,380 --> 00:05:52,060
+ Was sich negativ auf die Interaktion auswirkt.
+
+85
+00:05:52,200 --> 00:05:56,140
+ Um das zu vermeiden, sollten Sie die Aufnahmedauer nicht einfach nur der Kürze halber reduzieren.
+
+86
+00:05:56,920 --> 00:05:57,260
+ Punkt.
+
+87
+00:05:57,480 --> 00:06:03,540
+ Es ist in Ordnung, denselben Clip 10 Sekunden lang auf dem Bildschirm zu lassen, wenn er 10 Sekunden lang interessant ist.
+
+88
+00:06:04,040 --> 00:06:09,020
+ Oftmals müssen Sie nicht einmal zu einem anderen Clip wechseln, um Ihr Video interessanter zu gestalten.
+
+89
+00:06:09,120 --> 00:06:13,620
+ Verwenden Sie stattdessen einige dieser Tricks, um die Inhalte deutlich immersiver zu gestalten.
+
+90
+00:06:13,840 --> 00:06:16,880
+ Verleihen Sie langweiligen Standbildern zunächst etwas Bewegung.
+
+91
+00:06:16,880 --> 00:06:19,760
+ Ändern Sie entweder die Skalierung oder die Position langsam.
+
+92
+00:06:19,940 --> 00:06:22,880
+ Oder noch besser, machen Sie die Elemente durch eine Änderung der Perspektive interessanter.
+
+93
+00:06:22,880 --> 00:06:27,700
+ Sie können auch abruptere Skalierungssenderungen vornehmen, um die Aufmerksamkeit auf bestimmte Dinge zu lenken.
+
+94
+00:06:27,700 --> 00:06:35,380
+ Wenn ich beispielsweise in einem Errollsegment etwas Wichtiges sage, zoome ich nah an mein Gesicht, um dem Zuschauer auf subtile Weise zu vermitteln, dass er gut zu hören soll.
+
+95
+00:06:35,540 --> 00:06:37,420
+ Sie können auch Wackel-Keyframes einfügen.
+
+96
+00:06:37,600 --> 00:06:41,500
+ Dann sehen Sie, wie Bilder oder Text oder vielleicht das gesamte Video wackeln.
+
+97
+00:06:41,920 --> 00:06:44,000
+ Ich sehe das nie, weil es mir nicht gefällt.
+
+98
+00:06:44,340 --> 00:06:46,540
+ Aber wenn Sie es tun möchten, dann tun Sie es.
+
+99
+00:06:48,360 --> 00:06:52,580
+ Als nächstes fügen Sie eine Reihe von visuellen Elementen über Ihr Filmmaterial ein.
+
+100
+00:06:54,280 --> 00:06:59,360
+ Viele Leute machen den Fehler, Bildunterschriften nur hinzuzufügen, um die visuelle Abwechslung zu erhöhen.
+
+101
+00:06:59,540 --> 00:07:02,200
+ Vergessen Sie dabei aber nicht den Nachteil, über den wir gesprochen haben.
+
+102
+00:07:02,540 --> 00:07:09,260
+ Bildunterschriften zu verwenden, um mehr Stellen zu füllen, kann schnell unansehnlich werden und eine großartige Gelegenheit zunichte machen, ein ansprechenderes Bildmaterial zu verwenden.
+
+103
+00:07:09,420 --> 00:07:14,880
+ Daher verwende ich Bildunterschriften nur, wenn ich möchte, dass der Betrachter bestimmte Wörter versteht und ihnen mehr Aufmerksamkeit schenkt.
+
+104
+00:07:15,040 --> 00:07:20,000
+ Wenn es aber wirklich nichts anderes gibt, was man auf den Bildschirm bringen könnte, sind Bildunterschriften oft immer noch besser als nichts.
+
+105
+00:07:20,160 --> 00:07:24,020
+ Beschränken Sie sich außerdem auf drei oder weniger Wörter, da sie so leichter zu lesen sind.
+
+106
+00:07:24,180 --> 00:07:26,600
+ Nehmen wir an, Sie zeigen dem Betrachter ein Bild.
+
+107
+00:07:26,600 --> 00:07:31,840
+ Wenn Sie dem Betrachter einfach nur das gesamte Bild zeigen, ist das langweilig und vor allem verwirrend.
+
+108
+00:07:32,020 --> 00:07:38,780
+ Um die Dinge glasklar zu gestalten und für visuelle Abwechslung zu sorgen, lenken Sie die Aufmerksamkeit des Betrachters auf den Fokuspunkt des Bildes.
+
+109
+00:07:38,900 --> 00:07:43,360
+ Hier sind sechs Methoden, die ich dabei verwende, die über das bloße Skalieren und Positionieren hinausgehen.
+
+110
+00:07:43,580 --> 00:07:47,880
+ Machen Sie sich Notizen, denn nur so erhalten Sie professionell aussehende Zeitleisten wie diese.
+
+111
+00:07:49,540 --> 00:07:54,440
+ Animieren Sie den wichtigsten Textabschnitt oder den wichtigsten Bereich des Bildes, der hervorgehoben wird.
+
+112
+00:07:56,120 --> 00:08:00,720
+ Verdunkeln Sie den Bereich, der den Fokuspunkt des Bildes umgibt, oder lassen Sie ihn weichzeichnen.
+
+113
+00:08:02,360 --> 00:08:07,340
+ Ändern Sie den Farbton des Bildes, sodass er rot wird und dem Bild eine negative Konnotation verleiht.
+
+114
+00:08:07,500 --> 00:08:11,460
+ Sie können ihn auch in gelb oder grün ändern, um ihm einen positiven Beigeschmack zu verleihen.
+
+115
+00:08:11,580 --> 00:08:14,800
+ Kreise, Pfeile und Unterstreichungen funktionieren ebenfalls.
+
+116
+00:08:15,020 --> 00:08:17,820
+ Oh, und noch ein extra, bringen Sie das Motiv zum Leuchten.
+
+117
+00:08:17,980 --> 00:08:21,500
+ Ein weiterer Immersionshack besteht darin, das Video einfach gut aussehen zu lassen.
+
+118
+00:08:21,660 --> 00:08:26,020
+ Das kann Farbkorrektur sein, das Hinzufügen einer Vignette oder einige subtile Partikelanimationen.
+
+119
+00:08:26,140 --> 00:08:31,320
+ Wenn wir schon dabei sind, Dinge gut aussehen zu lassen, konzentrieren wir uns darauf, dass sie sich gut anfühlen.
+
+120
+00:08:31,320 --> 00:08:35,980
+ Diese nächste Säule verwandelt ihr Video buchstäblich in einen digitalen Morphiumstrom.
+
+121
+00:08:37,080 --> 00:08:39,820
+ Wir haben also über visuelle Abwechslungen gesprochen.
+
+122
+00:08:40,200 --> 00:08:42,680
+ Aber jetzt sprechen wir über visuelle Kontinuität.
+
+123
+00:08:42,840 --> 00:08:50,140
+ Wenn Sie es schaffen, einen nahtlosen Fluss von Bildern zu erstellen, gibt es keine Ecken und Kanten, keine Bereiche, in denen sich Ablenkungen aufbauen könnten.
+
+124
+00:08:50,320 --> 00:08:53,320
+ Es gibt keinen Punkt, an dem der Zuschauer die Immersion verliert.
+
+125
+00:08:53,320 --> 00:08:57,460
+ Das Ziel dieser Säule ist es, dass jeder Moment nahtlos in den nächsten übergeht.
+
+126
+00:08:58,380 --> 00:09:02,040
+ Die Bearbeitung sollte unsichtbar sein, das Erlebnis faszinierend.
+
+127
+00:09:03,180 --> 00:09:07,260
+ Immer wenn eine Grafik auf dem Bildschirm erscheint, kann sie nicht einfach so auftauchen.
+
+128
+00:09:07,460 --> 00:09:10,240
+ Das macht keinen Sinn. Sie muss irgendwie in den Rahmen gelangen.
+
+129
+00:09:10,440 --> 00:09:13,200
+ In der Beschreibung meiner kostenlosen Voreinstellungen findest du alles.
+
+130
+00:09:13,380 --> 00:09:15,260
+ Du musst die Elemente nicht unbedingt animieren.
+
+131
+00:09:15,440 --> 00:09:21,060
+ Du kannst auch etwas auf magische Weise auf dem Bildschirm erscheinen lassen, aber dann mithilfe eines Soundeffekts erklären, wie es dorthin gelangt ist.
+
+132
+00:09:21,060 --> 00:09:25,880
+ Ich verwende gerne diesen Auslöser-Soundeffekt, aber ein Knallgeräusch oder ähnliches funktioniert auch.
+
+133
+00:09:26,000 --> 00:09:27,460
+ Das ist jetzt extrem wichtig.
+
+134
+00:09:28,380 --> 00:09:32,800
+ Ich habe gerade einen Schnitt gemacht, aber dabei die wichtigste Regel für Schnitte vermasselt.
+
+135
+00:09:33,640 --> 00:09:37,540
+ Im letzten Frame dieses ersten Clips schaut mir der Zuschauer direkt in die Augen.
+
+136
+00:09:38,680 --> 00:09:44,440
+ Einen winzigen Sekundenbruchteil später, im ersten Frame des zweiten Clips, soll der Zuschauer nun hierher schauen.
+
+137
+00:09:44,640 --> 00:09:49,940
+ Das ist ein wenig irritierend und beeinträchtigt die Immersion, die du mit deiner Bearbeitung eigentlich erreichen solltest.
+
+138
+00:09:49,940 --> 00:09:55,740
+ Stell dir vor, der Zuschauer müsste bei jedem Schnitt seinen Blick immer wieder von einer Seite des Bildschirms zur anderen wechseln.
+
+139
+00:09:55,860 --> 00:09:58,660
+ Das hier ist ein ziemlich uninteressantes Seherlebnis.
+
+140
+00:09:58,860 --> 00:10:03,020
+ Eine weitere Möglichkeit, Übergänge nahtlos zu gestalten, ist die Verwendung eines Vollbildübergangs.
+
+141
+00:10:03,160 --> 00:10:08,240
+ Es gibt zahlreiche kostenlose Pakete, aber wenn dir mein subtiler Stil gefällt, habe ich in der Beschreibung etwas für dich.
+
+142
+00:10:08,360 --> 00:10:13,560
+ Und scheue dich nicht, ab und zu die visuelle Kontinuität zu unterbrechen, denn denk daran, dass dies den Zuschauer aufrüttelt.
+
+143
+00:10:13,700 --> 00:10:15,360
+ Es wird seine Aufmerksamkeit erregen.
+
+144
+00:10:15,580 --> 00:10:16,920
+ Sieh dir diese Zeitleiste an.
+
+145
+00:10:17,040 --> 00:10:21,720
+ Wir haben über all diese Möglichkeiten gesprochen, um das Video visuell ansprechend zu gestalten.
+
+146
+00:10:21,980 --> 00:10:24,540
+ Aber wir haben die andere Hälfte des Videos ausgelassen.
+
+147
+00:10:24,840 --> 00:10:28,600
+ Es gibt einen ganz anderen Sinn, mit dem dein Zuschauer das Video erleben kann.
+
+148
+00:10:29,140 --> 00:10:38,960
+ In Säule 4 sorgt immersives Audio-Sound-Design dafür, dass der Zuschauer jeden Schnitt, Übergang, jede Animation und jedes Filmmaterial mit einem zweiten Sinn erlebt.
+
+149
+00:10:39,940 --> 00:10:46,060
+ Es ist buchstäblich eine doppelte Stimulation und es kann verwendet werden, um die Stimmung des Zuschauers zu beeinflussen.
+
+150
+00:10:46,240 --> 00:10:51,280
+ Dies ist eine Superkraft des Engagements, über die wir ausführlicher sprechen werden, wenn wir zu deiner Musikauswahl kommen.
+
+151
+00:10:51,280 --> 00:10:56,340
+ Aber jetzt besteht der erste Schritt des Sound-Designs darin, eine Reihe von Sounds zu sammeln, mit denen du arbeiten kannst.
+
+152
+00:10:56,480 --> 00:10:57,660
+ Das habe ich bereits für dich.
+
+153
+00:10:57,800 --> 00:11:02,700
+ Beginne mit dem kostenlosen Sound-Design-Paket mit urheberrechtsfreien Sounds, das ich in der Beschreibung für dich erstellt habe.
+
+154
+00:11:02,880 --> 00:11:06,620
+ Falls du mehr benötigst, besuche freesound.org oder besorg dir Epidemic Sound.
+
+155
+00:11:06,800 --> 00:11:10,740
+ Gehe als nächstes dein Video durch und füge einfach überall dort Sound-Effekte hinzu, wo es Sinn macht.
+
+156
+00:11:10,900 --> 00:11:13,360
+ Wenn sich etwas bewegt, solltest du ein Zwischen hinzufügen.
+
+157
+00:11:13,500 --> 00:11:15,760
+ Und wenn etwas hervorgehoben wird, ein Highlight-Sound.
+
+158
+00:11:15,960 --> 00:11:17,340
+ Jetzt kommt der fesselnde Teil.
+
+159
+00:11:17,340 --> 00:11:23,420
+ Diese nächsten drei Arten von Sound-Effekten kapern buchstäblich die Emotionen deiner Zuschauer und ziehen sie in das Video hinein.
+
+160
+00:11:23,540 --> 00:11:24,520
+ Erstens die Reiser.
+
+161
+00:11:24,760 --> 00:11:30,600
+ Sie bauen Spannung und Vorfreude auf, da sie dem Publikum vermitteln, dass gleich etwas wirklich Wichtiges passieren wird.
+
+162
+00:11:30,800 --> 00:11:33,860
+ Setze sie aber nur ein, wenn tatsächlich etwas Wichtiges passieren wird.
+
+163
+00:11:34,200 --> 00:11:36,520
+ Sonst verlieren sie ihren Ruf und sind nicht effektiv.
+
+164
+00:11:36,660 --> 00:11:37,920
+ Als nächstes kommen die Hits.
+
+165
+00:11:38,100 --> 00:11:41,620
+ Diese lösen Spannung und betonen Momente, sodass diese wichtig erscheinen.
+
+166
+00:11:41,780 --> 00:11:44,720
+ Du kannst sie allein verwenden oder einen Reiser davor platzieren.
+
+167
+00:11:44,900 --> 00:11:46,340
+ Das hängt von der Situation ab.
+
+168
+00:11:46,460 --> 00:11:48,260
+ Und auch hier gilt, übertreibe es nicht.
+
+169
+00:11:48,440 --> 00:11:49,640
+ Zu guter Letzt die Tons.
+
+170
+00:11:49,840 --> 00:11:52,560
+ Diese erzeugen ein Gefühl von Geheimnis und Faszination.
+
+171
+00:11:52,800 --> 00:11:56,760
+ Sie sind eher für düstere Stimmungen vorgesehen und erzeugen viel unterschwellige Spannung.
+
+172
+00:11:56,940 --> 00:12:01,060
+ Diese Sound-Effekte sind deshalb so gut, weil sie die Emotionen der Zuschauer beeinflussen.
+
+173
+00:12:01,060 --> 00:12:06,680
+ Das ist sehr wirkungsvoll, denn je emotionaler die Zuschauer involviert sind, desto engagierter sind sie.
+
+174
+00:12:07,480 --> 00:12:10,340
+ Und diese Sound-Effekte sind nur die Spitze des Eisbergs.
+
+175
+00:12:11,080 --> 00:12:15,540
+ Unter der Oberfläche verbirgt sich ein riesiges Potenzial für emotionale Beteiligung.
+
+176
+00:12:15,800 --> 00:12:16,760
+ Deine Musikauswahl.
+
+177
+00:12:16,960 --> 00:12:20,700
+ Ich suche mir zum Beispiel gerne Songs aus, die ein Gefühl der Vorfreude erzeugen,
+
+178
+00:12:20,940 --> 00:12:24,880
+ sodass die Zuschauer ständig glauben, dass ich gleich etwas ganz Wichtiges sagen werde.
+
+179
+00:12:24,880 --> 00:12:28,420
+ Dann verwende ich in einem Abschnitt, in dem ich bahnbrechende Ratschläge gebe,
+
+180
+00:12:28,620 --> 00:12:33,600
+ einen Song, der ein innovatives Gefühl vermittelt und so eine Menge Aufregung über das erzeugt, was ich sage.
+
+181
+00:12:33,760 --> 00:12:35,280
+ Das ist ganz einfach umzusetzen.
+
+182
+00:12:35,780 --> 00:12:38,340
+ Trenne dein Video nach Themen wechseln und entscheide dann,
+
+183
+00:12:38,600 --> 00:12:41,340
+ in welcher Stimmung die Zuschauer bei jedem Thema sein sollen.
+
+184
+00:12:41,520 --> 00:12:44,900
+ Übrigens solltest du viel Zeit in die Suche nach der richtigen Musik investieren,
+
+185
+00:12:45,160 --> 00:12:46,880
+ denn es ist wirklich wichtig, dass sie passt.
+
+186
+00:12:47,020 --> 00:12:50,640
+ In der YouTube-Audiobibliothek findest du ein paar gute, urheberrechtsfreie Songs
+
+187
+00:12:50,640 --> 00:12:54,860
+ und gelegentlich gibt es auch echte Künstlerschätze wie Let Me Know, die kostenlose Songs anbieten.
+
+188
+00:12:54,860 --> 00:12:59,420
+ Aber um ehrlich zu sein, ist das Abonnieren einer lizenzierten Musikplattform die beste Wahl,
+
+189
+00:12:59,600 --> 00:13:01,060
+ wenn du YouTube ernst nehmen willst.
+
+190
+00:13:01,220 --> 00:13:05,180
+ Ich werde nicht gesponsert, aber ich habe beim letzten Mal damit etwa 4 Stunden gespart
+
+191
+00:13:05,180 --> 00:13:06,660
+ und viel bessere Songs gefunden.
+
+192
+00:13:06,880 --> 00:13:09,220
+ Ich habe einen Affiliate-Link für sie in der Beschreibung.
+
+193
+00:13:09,340 --> 00:13:13,140
+ Okay, das wird sich verrückt anhören, aber du kannst mit deiner Musikauswahl noch mehr tun,
+
+194
+00:13:13,380 --> 00:13:15,200
+ um den Zuschauer in das Video einzutauchen.
+
+195
+00:13:15,380 --> 00:13:18,360
+ Was passiert deiner Meinung nach, wenn du die Musik abrupt pausierst?
+
+196
+00:13:18,360 --> 00:13:22,060
+ Der plötzliche Wechsel wird den Zuschauer aufrütteln und seine Aufmerksamkeit erregen.
+
+197
+00:13:22,220 --> 00:13:25,880
+ Außerdem lenkt das Fehlen von Musik die Aufmerksamkeit auf andere Teile des Videos.
+
+198
+00:13:26,100 --> 00:13:30,360
+ Versuche also, die Musik für besondere Momente anzuhalten, um diesen Moment hervorzuheben.
+
+199
+00:13:30,580 --> 00:13:33,560
+ Was wäre, wenn du die Musik stattdessen langsam ausblenden lässt?
+
+200
+00:13:33,760 --> 00:13:37,420
+ Sobald der Zuschauer bemerkt, dass die Musik ausblendet, wird er verstehen,
+
+201
+00:13:37,800 --> 00:13:40,280
+ dass der Abschnitt, den er gerade ansieht, zu Ende geht.
+
+202
+00:13:40,720 --> 00:13:43,500
+ Diese Erkenntnis gibt ihm die Vorfreude auf etwas Neues.
+
+203
+00:13:43,500 --> 00:13:46,180
+ Okay, lass uns noch etwas fortgeschrittener werden.
+
+204
+00:13:46,380 --> 00:13:49,240
+ Passe nicht nur die Stimmung des Songs an den Ton des Segments an,
+
+205
+00:13:49,500 --> 00:13:54,840
+ sondern verbessere deine Musik, indem du die Höhepunkte und Tiefpunkte des Songs mit dem Video synchronisierst.
+
+206
+00:13:54,980 --> 00:13:58,200
+ In diesem Segment habe ich beispielsweise hier das Problem vorgestellt
+
+207
+00:13:58,200 --> 00:14:00,260
+ und hier mit der Erklärung der Lösung begonnen.
+
+208
+00:14:00,640 --> 00:14:04,340
+ Ich ordne die Dinge so an, dass die Musik genau in diesen Moment einsetzt.
+
+209
+00:14:05,500 --> 00:14:08,940
+ Dadurch wird ein klarer Themenwechsel vom Problem zur Lösung markiert
+
+210
+00:14:08,940 --> 00:14:11,120
+ und das Lösungssegment wird zudem spannender.
+
+211
+00:14:11,180 --> 00:14:14,960
+ Und falls du dich fragst, warum ich vier Musiktitel gleichzeitig abspiele,
+
+212
+00:14:15,200 --> 00:14:18,720
+ das liegt daran, dass ich die einzelnen Elemente des Songs heruntergeladen habe.
+
+213
+00:14:18,880 --> 00:14:22,280
+ Das ist ein weiteres Feature von Epidemic Sound, das sehr hilfreich ist.
+
+214
+00:14:22,400 --> 00:14:24,240
+ Okay, ich hoffe, das hat dir geholfen.
+
+215
+00:14:24,420 --> 00:14:26,400
+ Es gibt noch viel mehr Aspekte bei der Kundenbindung.
+
+216
+00:14:26,600 --> 00:14:28,500
+ Klicke hier, um ein Video dazu anzusehen.
+
+217
+00:14:28,640 --> 00:14:31,840
+ Und falls du dich für diesen Anruf interessierst, findest du unten einen Link.
+

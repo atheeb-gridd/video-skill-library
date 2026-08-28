@@ -1,0 +1,596 @@
+1
+00:00:00,000 --> 00:00:06,860
+Most editors make really good visuals, but they leave the sound design for later. If there's time left we'll do it, otherwise not. Motion graphics is a must, sound isn't.
+
+2
+00:00:06,860 --> 00:00:06,860
+Now, I've already said this like 50 times, that
+
+3
+00:00:06,860 --> 00:00:14,660
+I've already said this 50 times, that sound is 50% of the video. But sound here means: what's actually the audio, and what isn't?
+
+4
+00:00:14,660 --> 00:00:20,320
+It's not just the voice. Every video's sound has 5 layers. Where to find sounds, which one to use where, we'll talk about all of that.
+
+5
+00:00:20,320 --> 00:00:20,320
+Bu-
+
+6
+00:00:20,320 --> 00:00:23,680
+But before that, to do sound design you really need to understand the five layers of sound.
+
+7
+00:00:23,680 --> 00:00:26,560
+And layer number one of those is dialogue, or voiceover.
+
+8
+00:00:26,560 --> 00:00:29,480
+First of all, if this itself is bad, then no amount of sound design is going to make a difference.
+
+9
+00:00:29,480 --> 00:00:29,480
+Now fo-
+
+10
+00:00:29,480 --> 00:00:32,920
+Now for this, you can get a decent mic and learn basic audio editing from this video.
+
+11
+00:00:32,920 --> 00:00:38,620
+To make you feel the importance of each sound layer, I'll play each layer along with the video. So here it is with just voiceover.
+
+12
+00:00:38,620 --> 00:00:38,620
+Motivation for editing rarely comes. You sit down, get your headphones, you're excited, you're having fun, you're editing, the flow is building
+
+13
+00:00:38,620 --> 00:00:44,040
+Motivation for editing rarely comes. You sit down, get your headphones, you're excited, you're having fun, you're editing, the flow is building.
+
+14
+00:00:44,040 --> 00:00:54,580
+Not much fun, right? So to add some, here comes layer number two: ambient sounds. These are the sounds that build your scene.
+
+15
+00:00:54,580 --> 00:01:24,580
+If I play you traffic noise, you'll tell me without even looking that this video was shot on a road. If I play a train sound, you'll say it was recorded inside a train. So basically, whatever sound
+
+16
+00:01:24,580 --> 00:01:26,580
+Chill, bro, chill.
+
+17
+00:01:30,580 --> 00:01:32,580
+Then comes layer number 3.
+
+18
+00:01:32,580 --> 00:01:33,580
+Foley sounds.
+
+19
+00:01:33,580 --> 00:01:35,580
+Now these are the real world sounds
+
+20
+00:01:35,580 --> 00:01:36,580
+that we add into the video afterwards.
+
+21
+00:01:36,580 --> 00:01:38,580
+Just use the real ones. Why add them later?
+
+22
+00:01:38,580 --> 00:01:39,580
+You don't know anything, do you.
+
+23
+00:01:39,580 --> 00:01:41,580
+Look, it's because when you record in the real world,
+
+24
+00:01:41,580 --> 00:01:43,580
+you can't record every single sound properly.
+
+25
+00:01:43,580 --> 00:01:45,580
+Like, this is the real sound from my video,
+
+26
+00:01:45,580 --> 00:01:51,580
+and this is the foley sound that I added later.
+
+27
+00:01:57,580 --> 00:02:03,780
+So to keep the sound quality really good, which sound should be louder, which one softer, for that control we add the sound later.
+
+28
+00:02:03,780 --> 00:02:03,780
+Now foley sounds include footsteps, object interaction, cloth sounds and so on.
+
+29
+00:02:03,780 --> 00:02:07,260
+Now foley sounds include foot steps, object interaction and cloth sounds and so on.
+
+30
+00:02:07,260 --> 00:02:09,980
+Then comes our next layer: sound effects.
+
+31
+00:02:09,980 --> 00:02:12,900
+And honestly, this is the layer that the maximum number of people know about.
+
+32
+00:02:12,900 --> 00:02:14,920
+That sound design just means slapping on some sound effects.
+
+33
+00:02:14,920 --> 00:02:17,720
+But I hope today you've understood that it's not only that.
+
+34
+00:02:17,720 --> 00:02:17,720
+So sound effects we b-
+
+35
+00:02:17,720 --> 00:02:20,220
+So we basically use sound effects to enhance the visuals.
+
+36
+00:02:20,220 --> 00:02:25,000
+Sounds that don't even exist in the real world, but they help a lot in intensifying a scene.
+
+37
+00:02:25,000 --> 00:02:27,080
+Like risers, impacts, hits and whooshes.
+
+38
+00:02:27,080 --> 00:02:32,100
+We'll get into sound effects in more detail later in the video, but here's our video with the sound effects layer.
+
+39
+00:02:32,100 --> 00:02:43,540
+And after all this, the last layer of our sound is music.
+
+40
+00:02:43,540 --> 00:02:45,680
+I'm scared, man. I'll do it myself.
+
+41
+00:02:45,680 --> 00:02:49,640
+Now music is the layer that drives the emotion. It's the layer that makes the video feel complete.
+
+42
+00:02:49,640 --> 00:02:53,540
+And it's the one single layer that can carry an entire video on its own.
+
+43
+00:02:53,540 --> 00:03:05,060
+I've already made a really good video on music, go watch it after this one.
+
+44
+00:03:05,060 --> 00:03:08,040
+So we've covered the 5 layers of sound and understood their importance.
+
+45
+00:03:08,040 --> 00:03:10,760
+Which types of sound effects fall under which layer, we've understood that too.
+
+46
+00:03:10,760 --> 00:03:13,800
+So here's our video with all 5 layers combined.
+
+47
+00:03:13,800 --> 00:03:15,920
+Motivation for editing rarely comes.
+
+48
+00:03:15,920 --> 00:03:19,840
+You sit down, get your headphones, you're excited, you're having fun, you're editing, the flow is building, and then...
+
+49
+00:03:19,840 --> 00:03:24,900
+Now this doesn't mean that you have to do all 5 layers every single time.
+
+50
+00:03:24,980 --> 00:03:27,940
+In my own YouTube videos I only use 2 or 3 of these layers.
+
+51
+00:03:28,000 --> 00:03:28,000
+This was just to make you understand how a-
+
+52
+00:03:28,000 --> 00:03:32,480
+This was just to make you understand how all the layers come together to create an experience.
+
+53
+00:03:32,480 --> 00:03:36,980
+Now four of these layers don't have that much to them, but let's talk about the most important layer of sound designing.
+
+54
+00:03:36,980 --> 00:03:38,580
+Motion graphics? Are you crazy?
+
+55
+00:03:39,020 --> 00:03:39,020
+So where do you put sound effects in a video, how do you put them, why do you put them
+
+56
+00:03:39,020 --> 00:03:43,660
+So where do you put sound effects in a video? How? Why? And how do you figure out whether a sound effect is even needed there or not?
+
+57
+00:03:43,660 --> 00:03:47,560
+For all of that, it's really important to understand the types of sound effects.
+
+58
+00:03:47,560 --> 00:03:51,700
+So mainly, in my opinion, three kinds of sound effects exist, based on their need in the video.
+
+59
+00:03:51,700 --> 00:03:54,420
+Diegetic, motion and aesthetic sound effects.
+
+60
+00:03:54,420 --> 00:03:57,420
+And the most important out of these is diegetic sound effects.
+
+61
+00:03:57,420 --> 00:04:00,640
+Which are the sound effects that exist pretty prominently in the real world.
+
+62
+00:04:00,640 --> 00:04:04,760
+Like a phone ringing, a gunshot. Without these your video just can't feel real.
+
+63
+00:04:04,760 --> 00:04:07,340
+Then the second most important sound effect is for motion.
+
+64
+00:04:07,340 --> 00:04:10,440
+Like a transition, an animation in motion graphics, or some text effect.
+
+65
+00:04:10,440 --> 00:04:13,760
+Now when there's motion happening, our brain expects that a sound is going to come.
+
+66
+00:04:13,760 --> 00:04:17,720
+But when that sound doesn't come, the video feels really hollow, really fake.
+
+67
+00:04:17,720 --> 00:04:20,320
+So should I slap a whoosh on every single motion? You don't put a whoosh on everything.
+
+68
+00:04:20,320 --> 00:04:23,740
+And what else is there? Let's talk about real sound designing.
+
+69
+00:04:23,740 --> 00:04:25,840
+You listed off so many sound effects, but where do I get them from?
+
+70
+00:04:25,840 --> 00:04:25,840
+Look, you can just grab sound effects from YouTube
+
+71
+00:04:25,840 --> 00:04:27,520
+Look, you can just grab sound effects from YouTube,
+
+72
+00:04:27,600 --> 00:04:28,960
+and mostly you don't run into any copyright issues,
+
+73
+00:04:29,040 --> 00:04:30,540
+because what's really going to happen over a sound effect,
+
+74
+00:04:30,660 --> 00:04:32,820
+but on YouTube you mostly get low quality sound effects,
+
+75
+00:04:32,880 --> 00:04:32,880
+from one sound effect you don't get much
+
+76
+00:04:32,880 --> 00:04:34,580
+you don't get many variants of one sound effect,
+
+77
+00:04:34,680 --> 00:04:36,700
+you don't get a lot of sound effects with a similar texture,
+
+78
+00:04:36,740 --> 00:04:37,840
+and you don't get proper categories either.
+
+79
+00:04:37,980 --> 00:04:39,120
+You won't find any of that there.
+
+80
+00:04:39,120 --> 00:04:41,300
+So for this, I personally use Epidemic Sound.
+
+81
+00:04:41,380 --> 00:04:43,780
+Every sound effect you've heard in this video from the start until now,
+
+82
+00:04:44,000 --> 00:04:45,300
+all of them are from Epidemic.
+
+83
+00:04:45,360 --> 00:04:49,520
+In their new Studio feature, you just upload the video and the music and sound effects happen automatically.
+
+84
+00:04:52,400 --> 00:04:53,440
+Isn't that crazy?
+
+85
+00:04:53,540 --> 00:04:55,480
+They even have a plugin available for Premiere and DaVinci,
+
+86
+00:04:55,580 --> 00:04:58,100
+so you can use this Studio feature directly inside the software,
+
+87
+00:04:58,340 --> 00:05:01,440
+and then add the music and sound effects straight onto your timeline.
+
+88
+00:05:01,680 --> 00:05:06,300
+You can also mix and modify them however you want, which we'll talk about later.
+
+89
+00:05:06,400 --> 00:05:09,980
+But on Epidemic you don't just get sound effects, you also get a premium library of music.
+
+90
+00:05:10,120 --> 00:05:15,540
+Here you can search music by speed, emotion, instrument. And if you like a track, there's a find similar option to get more music like it.
+
+91
+00:05:15,540 --> 00:05:15,540
+And the craziest thing, go to create version
+
+92
+00:05:15,540 --> 00:05:21,080
+And the craziest thing, go to Create Version and you can pull out an edited track by adding or removing sections however you want.
+
+93
+00:05:21,160 --> 00:05:24,000
+Epidemic is right now one of the best and most affordable tools for editors.
+
+94
+00:05:24,000 --> 00:05:30,640
+In India they've already brought their prices down a lot, and if you want another 25% discount, just use the code AVE25.
+
+95
+00:05:30,740 --> 00:05:32,780
+Go try it out, honestly, you're going to enjoy it.
+
+96
+00:05:32,960 --> 00:05:35,020
+And thanks to Epidemic for sponsoring this video.
+
+97
+00:05:35,180 --> 00:05:36,880
+Now let's come back to our motion sounds.
+
+98
+00:05:36,940 --> 00:05:38,860
+So a lot of people have this doubt about which sound effect to use,
+
+99
+00:05:38,940 --> 00:05:40,580
+what do I even search for to find that sound effect.
+
+100
+00:05:40,640 --> 00:05:40,640
+And the fun part is, ther-
+
+101
+00:05:40,640 --> 00:05:42,820
+And the fun part is, there's no rule at all.
+
+102
+00:05:42,820 --> 00:05:46,120
+You can use any random sound effect, as long as it matches the motion of the video.
+
+103
+00:05:46,120 --> 00:05:48,420
+If it's in sync, it will just make sense.
+
+104
+00:05:48,420 --> 00:05:50,140
+Yeah, sure. If you don't know anything, you'll just throw in whatever.
+
+105
+00:05:50,140 --> 00:05:50,140
+Let me show you a real ex-
+
+106
+00:05:50,140 --> 00:06:20,140
+Let me show you a real example. There's a line animation here. What sound effect are you imagining could go here? A whoosh? Nah, leave it. First, drop in the comments which sound effect you think should go here.
+
+107
+00:06:20,140 --> 00:06:23,920
+is the sound effect, and if you put a water sound effect in its place, it'll just feel weird.
+
+108
+00:06:23,920 --> 00:06:32,500
+But for things that don't even exist in real life, you can creatively use any sound effect you want. The speed and timing just have to match.
+
+109
+00:06:32,500 --> 00:06:32,500
+And then comes the third type of sound effect, aesthetic sounds. Now these include cinematic hits, rises, textures and so-
+
+110
+00:06:32,500 --> 00:06:41,680
+Now these include cinematic hits, rises, textures and so on, which we've already talked about in a lot of detail.
+
+111
+00:06:41,680 --> 00:06:48,400
+But if I'm moving, if the camera is zooming, if I'm rolling my eyes, adding a whoosh or an air sound effect to all of that adds an aesthetic to the video.
+
+112
+00:06:48,400 --> 00:06:52,080
+Your viewer won't notice that you placed a sound effect there, but they will feel it.
+
+113
+00:06:52,080 --> 00:06:56,100
+We'll get into the mixing and balancing of sound, but before that let's understand where to place them.
+
+114
+00:06:56,100 --> 00:06:58,760
+Meaning, where exactly to put them on the timeline, at which moment.
+
+115
+00:06:58,760 --> 00:06:58,760
+So first of all, if you're putting a sound effect on a cut
+
+116
+00:06:58,760 --> 00:07:02,800
+So first of all, if you're putting a sound effect on a cut, place the highest peak of the sound effect on the cut.
+
+117
+00:07:02,800 --> 00:07:04,520
+And you can find the peak just by looking at the waveform.
+
+118
+00:07:04,520 --> 00:07:08,760
+And if you're putting a sound effect on a motion, then match the peak of the sound effect to the middle of the motion.
+
+119
+00:07:08,760 --> 00:07:10,900
+And match the length of the sound effect with the motion.
+
+120
+00:07:10,900 --> 00:07:13,320
+Either by changing the speed, or by layering multiple sound effects.
+
+121
+00:07:13,320 --> 00:07:14,180
+Like this scene here.
+
+122
+00:07:14,180 --> 00:07:18,720
+Now the peak of my hit sound effect should land exactly on the impact frame of my hand.
+
+123
+00:07:18,720 --> 00:07:26,220
+But wait, should we add another sound effect too? Absolutely.
+
+124
+00:07:26,220 --> 00:07:29,200
+So to show the movement while the hand is coming down, we can add a whoosh.
+
+125
+00:07:29,200 --> 00:07:31,180
+The whoosh and the hit together will sound like this.
+
+126
+00:07:31,180 --> 00:08:01,180
+You can also add reverb in between to give it more impact. Bro, that was fun! So that pretty much covers where to place sound effects. It depends on the feel. Play it, if it sounds right, it's right. If not, tweak it a bit and check again.
+
+127
+00:08:01,180 --> 00:08:08,560
+So let's talk about mixing and balancing sound effects. And if we start with volume levels, which I've covered so many times already, but let's do it once more.
+
+128
+00:08:08,560 --> 00:08:16,480
+Dialogue should be at 0 to -3 decibels, music should be at -20 to -25 decibels, and sound effects should be at -12 to -15 decibels.
+
+129
+00:08:16,480 --> 00:08:18,360
+And to mix them in, you can change the pitch.
+
+130
+00:08:18,440 --> 00:08:20,920
+To give a heavy, cinematic, subtle feel, you lower the pitch.
+
+131
+00:08:21,040 --> 00:08:23,680
+For a light, fast or energetic feel, use a higher pitch.
+
+132
+00:08:23,760 --> 00:08:26,040
+If your sound effects still feel separate from the video,
+
+133
+00:08:26,100 --> 00:08:28,500
+if they're sticking out, if they feel really odd,
+
+134
+00:08:28,680 --> 00:08:28,680
+then there's a very easy trick.
+
+135
+00:08:28,680 --> 00:08:31,960
+There's a really easy way to mix them in: add reverb.
+
+136
+00:08:32,120 --> 00:08:34,660
+Because without reverb, sound effects feel like they were recorded in a studio,
+
+137
+00:08:34,720 --> 00:08:36,740
+it doesn't feel like they exist in a real environment.
+
+138
+00:08:36,820 --> 00:08:39,000
+Just adding a little bit of reverb brings that feel in.
+
+139
+00:08:39,160 --> 00:08:41,400
+Then last comes high pass and low pass.
+
+140
+00:08:41,400 --> 00:08:41,400
+If you want your sound effect to feel sharp, then a high pass
+
+141
+00:08:41,400 --> 00:09:11,400
+If you want your sound effect to feel sharp, then use a high pass filter on it. It cuts off the lower frequencies and only the high frequencies stay. Whereas a low pass removes the high frequencies and keeps only the low ones, which makes your sound feel a bit muffled, a bit dampened, kind of like
+
+142
+00:09:11,400 --> 00:09:41,400
+Let's just slap a whoosh here. Yeah, that works, right? And then here's the result: the viewer's brain gets tired within 2 or 3 minutes, because every other second, in every other frame, there's some tick tick tick going on. So either the viewer pays attention, or they just get distracted by the sound effects.
+
+143
+00:09:41,400 --> 00:09:45,880
+Even in movies they use the sounds of that real location, so that you feel like you're actually there.
+
+144
+00:09:45,880 --> 00:09:48,680
+On a platform like Epidemic you get ambience sounds for every kind of location.
+
+145
+00:09:48,680 --> 00:09:51,200
+Rain, marketplace, forest, office, everything.
+
+146
+00:09:51,200 --> 00:09:51,200
+So...
+
+147
+00:09:51,200 --> 00:10:21,200
+Then mistake number three is the same sound effect repeated again and again and again and again and again and again and again.
+
+148
+00:10:21,200 --> 00:10:51,200
+It looks professional and people don't get irritated either. So we've covered all the layers of sound effects, how to find them, where to place them, how to mix and balance them, we've covered pretty much everything. Apart from that
+
+149
+00:10:51,200 --> 00:11:21,200
+Do it, do it, do it, do it, do it, do it, do it, do it, do it, do it, do it, do it
+

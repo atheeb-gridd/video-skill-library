@@ -1,0 +1,31 @@
+# ── Reference media — ~410MB of inputs, not library content ───────────
+# The KT videos and extracted audio. Keep them LOCALLY: _meta/visual-kt-delta.md
+# records why they must not be deleted — two of the library's conclusions were
+# corrected by looking at frames, not transcripts. Too big for git; use Git LFS
+# or shared storage if collaborators ever need them.
+assets/videos/
+assets/audio/
+
+# Contact sheets: 9MB of derived PNGs, regenerable with the ffmpeg one-liner in
+# _meta/source-media.md. Delete this line if you'd rather version the evidence.
+assets/frames/
+
+# ── HyperFrames install — upstream, scaffolded, not ours ──────────────
+# Runs entirely through npx (no node_modules), so it re-scaffolds cleanly from
+# its own SETUP.md. Not worth versioning 5.8MB of upstream skill content.
+hyperframes/
+
+# ── Per-video output ─────────────────────────────────────────────────
+# Design documents and build manifests for individual videos — ephemeral.
+# NOTE: _profiles/ is deliberately NOT ignored. A style profile is reusable
+# library content and belongs in the repo.
+_projects/
+
+# ── Junk ─────────────────────────────────────────────────────────────
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+node_modules/
+*.tar.gz

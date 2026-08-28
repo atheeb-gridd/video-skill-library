@@ -1,0 +1,868 @@
+1
+00:00:00,000 --> 00:00:05,380
+ Imagine your editing being so good that your viewers literally can't help but watch all the way to the end.
+
+2
+00:00:05,520 --> 00:00:06,820
+ That's what I want for you, too.
+
+3
+00:00:06,980 --> 00:00:12,060
+ So I took my years of experience in video editing and boiled it down into a formula with four pillars.
+
+4
+00:00:12,180 --> 00:00:18,500
+ And you'll want to take notes today, because we're going way deeper than basics like cutting out the dead space.
+
+5
+00:00:19,000 --> 00:00:20,680
+ Editing is so much more than that.
+
+6
+00:00:21,560 --> 00:00:24,860
+ And let's be honest, your video deserves so much more than that.
+
+7
+00:00:26,240 --> 00:00:31,100
+ A great editing style can get you perfect watch time and millions of views,
+
+8
+00:00:31,380 --> 00:00:34,560
+ but it can also get you terrible view counts and crushed dreams.
+
+9
+00:00:34,760 --> 00:00:37,680
+ To figure out why that is, let's start with this video.
+
+10
+00:00:37,780 --> 00:00:38,020
+ Period.
+
+11
+00:00:41,880 --> 00:00:46,480
+ The video is literally just this guy Sam talking in his car and then working out.
+
+12
+00:00:47,060 --> 00:00:52,480
+ It's 26 minutes long, but it only has 17 cuts and no other editing whatsoever.
+
+13
+00:00:52,480 --> 00:00:56,340
+ How many views, how many subscribers do you think he has?
+
+14
+00:00:57,880 --> 00:01:01,080
+ So does that mean editing is optional?
+
+15
+00:01:01,240 --> 00:01:01,560
+ Right.
+
+16
+00:01:01,820 --> 00:01:02,160
+ Hold on.
+
+17
+00:01:02,540 --> 00:01:03,000
+ Slow down.
+
+18
+00:01:03,180 --> 00:01:04,120
+ That's not what this is about.
+
+19
+00:01:04,360 --> 00:01:05,700
+ Sam actually did edit.
+
+20
+00:01:05,900 --> 00:01:09,120
+ He cut out all the boring parts his viewers didn't want to see.
+
+21
+00:01:09,300 --> 00:01:13,600
+ And he left it at that, because his audience isn't looking for a super stimulating experience.
+
+22
+00:01:13,800 --> 00:01:16,640
+ They just want to feel like they're hanging out with someone.
+
+23
+00:01:16,640 --> 00:01:22,660
+ A bunch of fast cuts and flashy animations would kill the authentic experience the viewer came for.
+
+24
+00:01:22,840 --> 00:01:29,940
+ And guess what, interrupting what the viewer actually came for is the fastest way to get them to click off.
+
+25
+00:01:30,160 --> 00:01:36,180
+ While Sam averages 90 seconds between cuts, Mr. Beast does the exact opposite.
+
+26
+00:01:36,460 --> 00:01:39,580
+ So what are you supposed to do when both editing styles work?
+
+27
+00:01:39,760 --> 00:01:43,260
+ Start by thinking about the experience your viewers want.
+
+28
+00:01:43,260 --> 00:01:48,660
+ Sam's edit shows us that millions of people come to YouTube to feel like they're hanging out with someone.
+
+29
+00:01:48,840 --> 00:01:53,240
+ Mr. Beast's fast-paced style shows that a ton of people use YouTube purely for entertainment.
+
+30
+00:01:53,480 --> 00:01:56,460
+ Every single one of your editing decisions feeds into that experience.
+
+31
+00:01:56,640 --> 00:02:03,200
+ For example, if you cut out every pause so you're talking non-stop, that's by far the biggest thing you can do for entertainment.
+
+32
+00:02:03,500 --> 00:02:05,400
+ But it comes at the cost of authenticity.
+
+33
+00:02:05,560 --> 00:02:08,580
+ An effective editing style accounts for all of these decisions.
+
+34
+00:02:08,580 --> 00:02:17,860
+ So while I walk you through the reasoning behind the edit on my first three uploads, take notes on what you should be adding to your own videos, based on what fits your audience best.
+
+35
+00:02:18,020 --> 00:02:20,520
+ This video isn't a pile of tutorials.
+
+36
+00:02:20,620 --> 00:02:23,100
+ It's a handbook for addictive editing.
+
+37
+00:02:23,320 --> 00:02:29,160
+ Think of it as the foundation that tells you which tutorials are even worth watching.
+
+38
+00:02:30,440 --> 00:02:32,560
+ I want you to take a look at this.
+
+39
+00:02:32,700 --> 00:02:33,740
+ There's a problem here.
+
+40
+00:02:34,760 --> 00:02:38,280
+ This is the timeline of a typically edited YouTube video.
+
+41
+00:02:38,440 --> 00:02:40,760
+ A few cuts took out the unnecessary parts.
+
+42
+00:02:40,900 --> 00:02:44,920
+ There was a tangent here that wasn't really relevant to the point of the video.
+
+43
+00:02:45,080 --> 00:02:47,760
+ These cuts removed pauses and bad takes.
+
+44
+00:02:47,860 --> 00:02:52,180
+ But as it stands, this video is doomed to never reach its potential.
+
+45
+00:02:52,320 --> 00:02:56,600
+ And the reason is that it isn't using its visuals to maximize attention.
+
+46
+00:02:56,600 --> 00:02:57,720
+ Think about it.
+
+47
+00:02:57,880 --> 00:03:02,060
+ When you see a change in your field of view, like something moving suddenly, it grabs your attention.
+
+48
+00:03:02,200 --> 00:03:04,120
+ The same thing happens when you're watching a video.
+
+49
+00:03:04,260 --> 00:03:07,900
+ And here, there are only three different things to look at in an entire minute.
+
+50
+00:03:08,040 --> 00:03:09,020
+ Kind of boring.
+
+51
+00:03:09,180 --> 00:03:15,900
+ But if the video cut between A-roll, B-roll and other footage every few seconds, it would hold attention way better.
+
+52
+00:03:16,120 --> 00:03:19,560
+ That said, there's also a downside to switching what's on screen too often.
+
+53
+00:03:19,560 --> 00:03:24,780
+ Keep an eye out for that as we go through how the different types of footage should be used to maximize engagement.
+
+54
+00:03:24,920 --> 00:03:25,280
+ A-roll.
+
+55
+00:03:25,280 --> 00:03:28,520
+ This is footage where you can see and hear the subject at the same time.
+
+56
+00:03:28,760 --> 00:03:33,040
+ It feels personal and holds attention really well when you're speaking confidently.
+
+57
+00:03:33,260 --> 00:03:36,040
+ Use it in short bursts when you're saying something important.
+
+58
+00:03:36,220 --> 00:03:36,600
+ B-roll.
+
+59
+00:03:36,600 --> 00:03:40,400
+ This is extra footage that was shot separately from the audio.
+
+60
+00:03:40,560 --> 00:03:46,600
+ It creates a visual representation of your words, so the viewer can actually see what you're talking about instead of just staring at your face.
+
+61
+00:03:46,600 --> 00:03:50,300
+ It also lets you get things across much more clearly and much faster.
+
+62
+00:03:50,460 --> 00:03:53,720
+ It's more interesting than A-roll, so use it as often as you possibly can.
+
+63
+00:03:53,960 --> 00:03:59,200
+ A few variations of B-roll are stock footage, which is basically the easy version, and motion graphics.
+
+64
+00:03:59,200 --> 00:04:16,380
+ Nope, I found a suspicious-looking math problem over by the pool table, and apparently I have to use the pool balls and the numbers on them to work out the solution.
+
+65
+00:04:16,440 --> 00:04:20,780
+ Period. You really need to understand how crucial that editing decision was.
+
+66
+00:04:21,360 --> 00:04:25,080
+ That was an important but boring moment in the story of the video.
+
+67
+00:04:25,380 --> 00:04:33,820
+ Any attempt to use A-roll or regular B-roll in that moment would have been either too slow or horribly confusing, and either one would have cost viewers.
+
+68
+00:04:33,960 --> 00:04:36,840
+ But an animation explained it crystal clear and fast.
+
+69
+00:04:37,220 --> 00:04:41,820
+ That's the kind of editing decision you have to make to build a video people can't look away from.
+
+70
+00:04:42,000 --> 00:04:47,260
+ If you follow my channel, you've probably noticed that I've only uploaded three videos.
+
+71
+00:04:47,700 --> 00:04:52,460
+ And with those I've gotten over 300,000 views and around 13,000 subscribers.
+
+72
+00:04:52,620 --> 00:04:56,820
+ What makes it even crazier is that I didn't promote these videos anywhere.
+
+73
+00:04:57,000 --> 00:05:04,060
+ I just uploaded them to YouTube and they took off completely on their own, thanks to the YouTube knowledge I've built up over the years.
+
+74
+00:05:04,580 --> 00:05:11,360
+ Last year I started a channel that grew to 60,000 subscribers and over 24 million views.
+
+75
+00:05:12,360 --> 00:05:17,140
+ Because of that, I've gotten a lot of comments and emails from people asking me for help.
+
+76
+00:05:17,760 --> 00:05:21,240
+ So I wanted to let you know that I'm putting my calendar down below.
+
+77
+00:05:21,540 --> 00:05:23,280
+ But it's only for serious YouTubers.
+
+78
+00:05:23,560 --> 00:05:29,400
+ If that sounds interesting to you, you can book a call below to find out how to grow your YouTube channel.
+
+79
+00:05:29,600 --> 00:05:33,400
+ By the way, spots are extremely limited right now, so don't miss out.
+
+80
+00:05:33,720 --> 00:05:38,900
+ You probably remember from earlier that there's a downside to constantly cutting back and forth between different clips.
+
+81
+00:05:38,900 --> 00:05:43,060
+ All that visual variety can turn into visual mush fast if you do it wrong.
+
+82
+00:05:43,240 --> 00:05:48,460
+ Let's say you want to be engaging, so you try to cut between different clips as much as humanly possible.
+
+83
+00:05:48,620 --> 00:05:50,160
+ You run the risk of making things confusing.
+
+84
+00:05:50,380 --> 00:05:52,060
+ Which hurts engagement.
+
+85
+00:05:52,200 --> 00:05:56,140
+ To avoid that, don't shorten your shots just for the sake of being short.
+
+86
+00:05:56,920 --> 00:05:57,260
+ Period.
+
+87
+00:05:57,480 --> 00:06:03,540
+ It's totally fine to leave the same clip on screen for 10 seconds if it's interesting for 10 seconds.
+
+88
+00:06:04,040 --> 00:06:09,020
+ A lot of the time you don't even need to cut to a different clip to make your video more interesting.
+
+89
+00:06:09,120 --> 00:06:13,620
+ Instead, use a few of these tricks to make the content way more immersive.
+
+90
+00:06:13,840 --> 00:06:16,880
+ First, give boring still images some movement.
+
+91
+00:06:16,880 --> 00:06:19,760
+ Either slowly change the scale or the position.
+
+92
+00:06:19,940 --> 00:06:22,880
+ Or even better, make things more interesting with a change in perspective.
+
+93
+00:06:22,880 --> 00:06:27,700
+ You can also make more abrupt scale changes to pull attention to specific things.
+
+94
+00:06:27,700 --> 00:06:35,380
+ For example, when I'm saying something important in an A-roll segment, I zoom in close on my face to subtly tell the viewer to listen up.
+
+95
+00:06:35,540 --> 00:06:37,420
+ You can also add shake keyframes.
+
+96
+00:06:37,600 --> 00:06:41,500
+ Then you'll see images or text or maybe the whole video shaking.
+
+97
+00:06:41,920 --> 00:06:44,000
+ You'll never catch me doing this, because I don't like it.
+
+98
+00:06:44,340 --> 00:06:46,540
+ But if you want to do it, go for it.
+
+99
+00:06:48,360 --> 00:06:52,580
+ Next, layer a bunch of visual elements over your footage.
+
+100
+00:06:54,280 --> 00:06:59,360
+ A lot of people make the mistake of adding captions just to bump up the visual variety.
+
+101
+00:06:59,540 --> 00:07:02,200
+ But don't forget the downside we talked about.
+
+102
+00:07:02,540 --> 00:07:09,260
+ Using captions to fill more space can get ugly fast and waste a great opportunity to put something more engaging on screen.
+
+103
+00:07:09,420 --> 00:07:14,880
+ So I only use captions when I want the viewer to catch specific words and pay extra attention to them.
+
+104
+00:07:15,040 --> 00:07:20,000
+ But if there's genuinely nothing else you could put on screen, captions are often still better than nothing.
+
+105
+00:07:20,160 --> 00:07:24,020
+ Also keep it to three words or fewer, since that makes them easier to read.
+
+106
+00:07:24,180 --> 00:07:26,600
+ Let's say you're showing the viewer an image.
+
+107
+00:07:26,600 --> 00:07:31,840
+ If you just throw the whole image up there, that's boring and, more importantly, confusing.
+
+108
+00:07:32,020 --> 00:07:38,780
+ To make things crystal clear and add visual variety, direct the viewer's attention to the focal point of the image.
+
+109
+00:07:38,900 --> 00:07:43,360
+ Here are six methods I use for that which go beyond just scaling and repositioning.
+
+110
+00:07:43,580 --> 00:07:47,880
+ Take notes, because this is how you end up with professional-looking timelines like this one.
+
+111
+00:07:49,540 --> 00:07:54,440
+ Animate in the most important line of text or the most important part of the image you're highlighting.
+
+112
+00:07:56,120 --> 00:08:00,720
+ Darken or blur the area surrounding the focal point of the image.
+
+113
+00:08:02,360 --> 00:08:07,340
+ Shift the image's color so it goes red, giving it a negative connotation.
+
+114
+00:08:07,500 --> 00:08:11,460
+ You can also shift it to yellow or green to give it a positive spin.
+
+115
+00:08:11,580 --> 00:08:14,800
+ Circles, arrows and underlines work too.
+
+116
+00:08:15,020 --> 00:08:17,820
+ Oh, and one bonus: make the subject glow.
+
+117
+00:08:17,980 --> 00:08:21,500
+ Another immersion hack is to simply make the video look good.
+
+118
+00:08:21,660 --> 00:08:26,020
+ That can be color grading, adding a vignette, or some subtle particle animations.
+
+119
+00:08:26,140 --> 00:08:31,320
+ And while we're on the subject of making things look good, let's focus on making them feel good.
+
+120
+00:08:31,320 --> 00:08:35,980
+ This next pillar literally turns your video into a digital morphine drip.
+
+121
+00:08:37,080 --> 00:08:39,820
+ So we've talked about visual variety.
+
+122
+00:08:40,200 --> 00:08:42,680
+ But now let's talk about visual continuity.
+
+123
+00:08:42,840 --> 00:08:50,140
+ If you can create a seamless flow of images, there are no rough edges, no spots where distractions can creep in.
+
+124
+00:08:50,320 --> 00:08:53,320
+ There's no point where the viewer loses immersion.
+
+125
+00:08:53,320 --> 00:08:57,460
+ The goal of this pillar is for every moment to flow seamlessly into the next.
+
+126
+00:08:58,380 --> 00:09:02,040
+ The editing should be invisible, the experience captivating.
+
+127
+00:09:03,180 --> 00:09:07,260
+ Any time a graphic shows up on screen, it can't just appear out of nowhere.
+
+128
+00:09:07,460 --> 00:09:10,240
+ That doesn't make sense. It has to get into the frame somehow.
+
+129
+00:09:10,440 --> 00:09:13,200
+ You'll find all of them in my free presets in the description.
+
+130
+00:09:13,380 --> 00:09:15,260
+ You don't necessarily have to animate the elements.
+
+131
+00:09:15,440 --> 00:09:21,060
+ You can also have something magically appear on screen, but then explain how it got there with a sound effect.
+
+132
+00:09:21,060 --> 00:09:25,880
+ I like using this shutter sound effect, but a pop or something similar works too.
+
+133
+00:09:26,000 --> 00:09:27,460
+ Now this part is extremely important.
+
+134
+00:09:28,380 --> 00:09:32,800
+ I just made a cut, and in doing it I broke the most important rule of cutting.
+
+135
+00:09:33,640 --> 00:09:37,540
+ In the last frame of that first clip, the viewer is looking me right in the eyes.
+
+136
+00:09:38,680 --> 00:09:44,440
+ A tiny fraction of a second later, in the first frame of the second clip, the viewer is suddenly supposed to look over here.
+
+137
+00:09:44,640 --> 00:09:49,940
+ That's a little jarring and it hurts the immersion your editing is supposed to be building.
+
+138
+00:09:49,940 --> 00:09:55,740
+ Imagine the viewer having to bounce their eyes from one side of the screen to the other on every single cut.
+
+139
+00:09:55,860 --> 00:09:58,660
+ That's a pretty unengaging viewing experience.
+
+140
+00:09:58,860 --> 00:10:03,020
+ Another way to make transitions seamless is to use a full-screen transition.
+
+141
+00:10:03,160 --> 00:10:08,240
+ There are tons of free packs out there, but if you like my subtle style, I've got something for you in the description.
+
+142
+00:10:08,360 --> 00:10:13,560
+ And don't be afraid to break visual continuity once in a while, because remember, that jolts the viewer.
+
+143
+00:10:13,700 --> 00:10:15,360
+ It'll grab their attention.
+
+144
+00:10:15,580 --> 00:10:16,920
+ Take a look at this timeline.
+
+145
+00:10:17,040 --> 00:10:21,720
+ We've talked about all these ways to make the video visually engaging.
+
+146
+00:10:21,980 --> 00:10:24,540
+ But we've left out the other half of the video.
+
+147
+00:10:24,840 --> 00:10:28,600
+ There's a completely different sense your viewer can experience the video with.
+
+148
+00:10:29,140 --> 00:10:38,960
+ In pillar four, immersive audio and sound design makes the viewer experience every cut, every transition, every animation and every piece of footage with a second sense.
+
+149
+00:10:39,940 --> 00:10:46,060
+ It's literally double the stimulation, and it can be used to steer the viewer's mood.
+
+150
+00:10:46,240 --> 00:10:51,280
+ This is an engagement superpower that we'll get into in more detail when we get to your music choices.
+
+151
+00:10:51,280 --> 00:10:56,340
+ But for now, the first step of sound design is building up a library of sounds to work with.
+
+152
+00:10:56,480 --> 00:10:57,660
+ I've already done that for you.
+
+153
+00:10:57,800 --> 00:11:02,700
+ Start with the free sound design pack of royalty-free sounds I put together for you in the description.
+
+154
+00:11:02,880 --> 00:11:06,620
+ If you need more, check out freesound.org or grab Epidemic Sound.
+
+155
+00:11:06,800 --> 00:11:10,740
+ Next, go through your video and just add sound effects everywhere it makes sense.
+
+156
+00:11:10,900 --> 00:11:13,360
+ If something moves, you should add a whoosh.
+
+157
+00:11:13,500 --> 00:11:15,760
+ And if something gets highlighted, a highlight sound.
+
+158
+00:11:15,960 --> 00:11:17,340
+ Now here's the addictive part.
+
+159
+00:11:17,340 --> 00:11:23,420
+ These next three types of sound effects literally hijack your viewers' emotions and pull them into the video.
+
+160
+00:11:23,540 --> 00:11:24,520
+ First, risers.
+
+161
+00:11:24,760 --> 00:11:30,600
+ They build tension and anticipation, because they tell the audience that something really important is about to happen.
+
+162
+00:11:30,800 --> 00:11:33,860
+ But only use them when something important actually is about to happen.
+
+163
+00:11:34,200 --> 00:11:36,520
+ Otherwise they lose their credibility and stop working.
+
+164
+00:11:36,660 --> 00:11:37,920
+ Next up are hits.
+
+165
+00:11:38,100 --> 00:11:41,620
+ These release tension and punctuate moments so they feel important.
+
+166
+00:11:41,780 --> 00:11:44,720
+ You can use them on their own or put a riser in front of them.
+
+167
+00:11:44,900 --> 00:11:46,340
+ It depends on the situation.
+
+168
+00:11:46,460 --> 00:11:48,260
+ And again, don't overdo it.
+
+169
+00:11:48,440 --> 00:11:49,640
+ Last but not least, tones.
+
+170
+00:11:49,840 --> 00:11:52,560
+ These create a feeling of mystery and intrigue.
+
+171
+00:11:52,800 --> 00:11:56,760
+ They're more for darker moods and they build a lot of underlying tension.
+
+172
+00:11:56,940 --> 00:12:01,060
+ These sound effects work so well because they play on the viewer's emotions.
+
+173
+00:12:01,060 --> 00:12:06,680
+ And that's powerful, because the more emotionally invested viewers are, the more engaged they are.
+
+174
+00:12:07,480 --> 00:12:10,340
+ And these sound effects are just the tip of the iceberg.
+
+175
+00:12:11,080 --> 00:12:15,540
+ Below the surface there's a huge amount of potential for emotional investment.
+
+176
+00:12:15,800 --> 00:12:16,760
+ Your music choices.
+
+177
+00:12:16,960 --> 00:12:20,700
+ For example, I like picking songs that create a sense of anticipation,
+
+178
+00:12:20,940 --> 00:12:24,880
+ so viewers constantly feel like I'm about to say something really important.
+
+179
+00:12:24,880 --> 00:12:28,420
+ Then, in a section where I'm giving game-changing advice,
+
+180
+00:12:28,620 --> 00:12:33,600
+ I'll use a song with an innovative feel that builds a ton of excitement around what I'm saying.
+
+181
+00:12:33,760 --> 00:12:35,280
+ It's really easy to pull off.
+
+182
+00:12:35,780 --> 00:12:38,340
+ Split your video up by topic changes, then decide
+
+183
+00:12:38,600 --> 00:12:41,340
+ what mood you want the viewer to be in for each topic.
+
+184
+00:12:41,520 --> 00:12:44,900
+ By the way, you should put a lot of time into finding the right music,
+
+185
+00:12:45,160 --> 00:12:46,880
+ because it really matters that it fits.
+
+186
+00:12:47,020 --> 00:12:50,640
+ The YouTube Audio Library has a few good royalty-free songs,
+
+187
+00:12:50,640 --> 00:12:54,860
+ and every now and then you'll find real gems from artists like Let Me Know who give their songs away for free.
+
+188
+00:12:54,860 --> 00:12:59,420
+ But to be honest, subscribing to a licensed music platform is the best move
+
+189
+00:12:59,600 --> 00:13:01,060
+ if you want to take YouTube seriously.
+
+190
+00:13:01,220 --> 00:13:05,180
+ I'm not sponsored, but last time it saved me about four hours
+
+191
+00:13:05,180 --> 00:13:06,660
+ and I found way better songs.
+
+192
+00:13:06,880 --> 00:13:09,220
+ I've got an affiliate link for them in the description.
+
+193
+00:13:09,340 --> 00:13:13,140
+ Okay, this is going to sound crazy, but there's even more you can do with your music choices
+
+194
+00:13:13,380 --> 00:13:15,200
+ to pull the viewer into the video.
+
+195
+00:13:15,380 --> 00:13:18,360
+ What do you think happens when you cut the music abruptly?
+
+196
+00:13:18,360 --> 00:13:22,060
+ That sudden change jolts the viewer and grabs their attention.
+
+197
+00:13:22,220 --> 00:13:25,880
+ On top of that, the absence of music pulls attention to other parts of the video.
+
+198
+00:13:26,100 --> 00:13:30,360
+ So try pausing the music for special moments to make that moment stand out.
+
+199
+00:13:30,580 --> 00:13:33,560
+ And what if you slowly faded the music out instead?
+
+200
+00:13:33,760 --> 00:13:37,420
+ As soon as the viewer notices the music fading, they'll understand
+
+201
+00:13:37,800 --> 00:13:40,280
+ that the section they're watching is coming to an end.
+
+202
+00:13:40,720 --> 00:13:43,500
+ And that realization gives them anticipation for something new.
+
+203
+00:13:43,500 --> 00:13:46,180
+ Okay, let's get a little more advanced.
+
+204
+00:13:46,380 --> 00:13:49,240
+ Don't just match the mood of the song to the tone of the segment,
+
+205
+00:13:49,500 --> 00:13:54,840
+ level up your music by syncing the highs and lows of the song to the video.
+
+206
+00:13:54,980 --> 00:13:58,200
+ In this segment, for example, I introduced the problem right here
+
+207
+00:13:58,200 --> 00:14:00,260
+ and started explaining the solution here.
+
+208
+00:14:00,640 --> 00:14:04,340
+ I arrange things so the music drops in at exactly that moment.
+
+209
+00:14:05,500 --> 00:14:08,940
+ That marks a clear topic change from problem to solution
+
+210
+00:14:08,940 --> 00:14:11,120
+ and it also makes the solution segment more exciting.
+
+211
+00:14:11,180 --> 00:14:14,960
+ And in case you're wondering why I'm playing four music tracks at once,
+
+212
+00:14:15,200 --> 00:14:18,720
+ that's because I downloaded the individual stems of the song.
+
+213
+00:14:18,880 --> 00:14:22,280
+ That's another Epidemic Sound feature that's really helpful.
+
+214
+00:14:22,400 --> 00:14:24,240
+ Okay, I hope this helped.
+
+215
+00:14:24,420 --> 00:14:26,400
+ There's a lot more that goes into keeping your audience hooked.
+
+216
+00:14:26,600 --> 00:14:28,500
+ Click here to watch a video about it.
+
+217
+00:14:28,640 --> 00:14:31,840
+ And if you're interested in that call, there's a link below.
+

@@ -1,0 +1,408 @@
+1
+00:00:00,960 --> 00:00:03,040
+ - Editing is where the magic happens.
+
+2
+00:00:03,040 --> 00:00:05,880
+ It's where all that hard work, production and shoot days
+
+3
+00:00:05,880 --> 00:00:08,760
+ gets laid out and put together to tell a story.
+
+4
+00:00:08,760 --> 00:00:12,360
+ In many ways, editing is invisible storytelling
+
+5
+00:00:12,360 --> 00:00:14,640
+ and understanding the different types of cuts
+
+6
+00:00:14,640 --> 00:00:16,320
+ is key to mastering it.
+
+7
+00:00:16,320 --> 00:00:18,440
+ So in this video, we're gonna dive into
+
+8
+00:00:18,440 --> 00:00:21,980
+ 10 important editing cuts every filmmaker should know.
+
+9
+00:00:21,980 --> 00:00:23,720
+ So I don't think we can start this list
+
+10
+00:00:23,720 --> 00:00:26,520
+ without the most obvious cut of them all at number one
+
+11
+00:00:26,520 --> 00:00:29,560
+ and it is called, well, the cut.
+
+12
+00:00:29,560 --> 00:00:31,600
+ The cut is an instant switch
+
+13
+00:00:31,600 --> 00:00:34,320
+ between one shot to another, including audio.
+
+14
+00:00:34,320 --> 00:00:35,820
+ You would have seen thousands of these
+
+15
+00:00:35,820 --> 00:00:38,660
+ as it's the most popular cut style of them all.
+
+16
+00:00:38,660 --> 00:00:41,180
+ Here you see we cut cleanly from this bar scene
+
+17
+00:00:41,180 --> 00:00:42,720
+ to this office scene and we're ready
+
+18
+00:00:42,720 --> 00:00:44,360
+ to take on new information.
+
+19
+00:00:45,240 --> 00:00:46,740
+ Number two, the jump cut.
+
+20
+00:00:47,800 --> 00:00:50,360
+ This cut is when a segment of a shot has been removed
+
+21
+00:00:50,360 --> 00:00:53,120
+ and the separate ends have been spliced back together,
+
+22
+00:00:53,120 --> 00:00:56,000
+ making the shot feel like it has jumped in time.
+
+23
+00:00:56,000 --> 00:00:59,120
+ You may also see a lot of jump cuts in talking head videos,
+
+24
+00:00:59,120 --> 00:01:02,160
+ on YouTube to help remove pauses and mistakes.
+
+25
+00:01:02,160 --> 00:01:05,580
+ In this Tarantino movie, the effect these jump cuts are having
+
+26
+00:01:05,580 --> 00:01:07,220
+ is showing the passing of time
+
+27
+00:01:07,220 --> 00:01:09,880
+ and that the characters have actually been speaking longer
+
+28
+00:01:09,880 --> 00:01:11,220
+ than the screen time being shown.
+
+29
+00:01:11,220 --> 00:01:12,220
+ Oh yeah.
+
+30
+00:01:12,220 --> 00:01:15,880
+ Let me tell you, I just got my part for sheer luck.
+
+31
+00:01:15,880 --> 00:01:17,880
+ Number three is the match cut.
+
+32
+00:01:17,880 --> 00:01:22,760
+ The match cut is a cut that matches action, shape, colour, framing
+
+33
+00:01:22,760 --> 00:01:27,220
+ or even audio of two shots, seamlessly bringing the viewer into the next scene.
+
+34
+00:01:31,220 --> 00:01:35,560
+ The three types of match cuts are graphic with visual elements matching,
+
+35
+00:01:36,360 --> 00:01:40,520
+ movement with camera, character or object movement matching,
+
+36
+00:01:40,520 --> 00:01:43,720
+ and audio with the sound matches between the two scenes.
+
+37
+00:01:43,720 --> 00:01:46,680
+ Mama said they'd take me anywhere.
+
+38
+00:01:46,680 --> 00:01:50,180
+ She said they was my magic shoe.
+
+39
+00:01:50,180 --> 00:01:54,820
+ Cuts number four and five is the J cuts and the L cut.
+
+40
+00:01:54,820 --> 00:02:00,760
+ A J cut is when the audio from the next scene starts before the video cuts.
+
+41
+00:02:00,760 --> 00:02:03,720
+ So the viewer hears what's coming before they see it.
+
+42
+00:02:03,720 --> 00:02:06,600
+ Here is a popular J cut from the Wolf of Wall Street
+
+43
+00:02:06,600 --> 00:02:09,560
+ where we begin to hear Matthew McConaughey beating on his chest,
+
+44
+00:02:09,560 --> 00:02:12,360
+ leading us into the lunch scene before we visually see it.
+
+45
+00:02:12,360 --> 00:02:13,720
+ Shut it, shut it, shut it.
+
+46
+00:02:13,720 --> 00:02:20,760
+ And now I realise a lot of my examples all contain Leo DiCaprio.
+
+47
+00:02:20,760 --> 00:02:22,360
+ That was not intended at all.
+
+48
+00:02:23,000 --> 00:02:24,920
+ An L cut is the opposite.
+
+49
+00:02:24,920 --> 00:02:29,720
+ The audio from the current scene continues even after the visual cuts to the next.
+
+50
+00:02:29,720 --> 00:02:32,520
+ You're still hearing a line of dialogue or ambient sound
+
+51
+00:02:32,520 --> 00:02:34,280
+ as you're already seeing the new shot.
+
+52
+00:02:34,920 --> 00:02:38,360
+ This L cut from Ant-Man continues the character's dialogue
+
+53
+00:02:38,360 --> 00:02:41,560
+ while we're visually seeing a reenactment scene, bridging the two together.
+
+54
+00:02:41,560 --> 00:02:43,880
+ You know, I don't mind res, man. You know, but there was a rosé that saved the day.
+
+55
+00:02:43,880 --> 00:02:44,520
+ It was delightful.
+
+56
+00:02:45,080 --> 00:02:47,640
+ And then he tells me about this girl, Emily, that we used to kick it with.
+
+57
+00:02:47,640 --> 00:02:49,720
+ It was actually the first pair of boobs that I ever touched.
+
+58
+00:02:49,720 --> 00:02:51,800
+ It's the wrong details. It's the wrong.
+
+59
+00:02:51,800 --> 00:02:53,160
+ It has nothing to do with the story.
+
+60
+00:02:53,160 --> 00:02:56,440
+ These cuts are incredibly useful because they create a smoother,
+
+61
+00:02:56,440 --> 00:03:00,600
+ more natural flow between shots, especially in conversations.
+
+62
+00:03:00,600 --> 00:03:04,520
+ They let editors guide the audience's attention, build emotional impact,
+
+63
+00:03:04,520 --> 00:03:07,400
+ and instead of just feeling like a hard stop,
+
+64
+00:03:07,400 --> 00:03:10,360
+ the J and L cut make the film feel more immersive.
+
+65
+00:03:11,560 --> 00:03:15,160
+ All right, number six, the fade.
+
+66
+00:03:16,840 --> 00:03:22,440
+ The fade is a classic, and it's when a shot dissolves or fades to or from a solid color.
+
+67
+00:03:23,000 --> 00:03:25,400
+ And that color is most commonly black,
+
+68
+00:03:25,400 --> 00:03:30,760
+ whereas a fade to white might be used to show the character dying or in a dream.
+
+69
+00:03:31,400 --> 00:03:33,640
+ Fades are commonly at the start or the end of the film,
+
+70
+00:03:33,640 --> 00:03:36,680
+ and they symbolize the beginning or the end of a story.
+
+71
+00:03:37,720 --> 00:03:41,000
+ Now, similar to the fade is the next transition we have.
+
+72
+00:03:41,000 --> 00:03:42,520
+ And this is the dissolve.
+
+73
+00:03:43,240 --> 00:03:47,880
+ This, instead of fading from a color, we just fade to a new shot.
+
+74
+00:03:47,880 --> 00:03:50,840
+ The dissolve is commonly used to show a passing of time,
+
+75
+00:03:50,840 --> 00:03:53,880
+ either within a scene or from one scene to the next.
+
+76
+00:03:57,160 --> 00:04:00,360
+ Number eight is cutting on action.
+
+77
+00:04:01,240 --> 00:04:03,320
+ Cutting on action means just that.
+
+78
+00:04:03,320 --> 00:04:06,040
+ You cut during the character or object's movement.
+
+79
+00:04:06,680 --> 00:04:09,080
+ Basically, when the out point of shot A
+
+80
+00:04:09,640 --> 00:04:13,400
+ matches the in point of shot B, it creates a seamless transition.
+
+81
+00:04:14,040 --> 00:04:17,400
+ Cutting on action is another very common technique used by editors,
+
+82
+00:04:17,400 --> 00:04:33,080
+ and it helps make the cuts feel smoother and more natural to the viewer.
+
+83
+00:04:35,080 --> 00:04:37,000
+ Number nine is cross cutting.
+
+84
+00:04:37,960 --> 00:04:42,680
+ Cross cutting is when the editor is cutting back and forth between multiple scenes,
+
+85
+00:04:42,680 --> 00:04:43,960
+ usually at the same time.
+
+86
+00:04:44,920 --> 00:04:48,200
+ This is a common technique used in thriller style movies.
+
+87
+00:04:48,200 --> 00:04:51,240
+ It can be used when maybe two characters are on the phone to each other,
+
+88
+00:04:51,240 --> 00:04:53,080
+ and you're cutting to and from each character.
+
+89
+00:04:54,120 --> 00:04:56,040
+ What cross cutting allows you to do
+
+90
+00:04:56,040 --> 00:04:59,640
+ is to easily tell your two stories that are happening at the same time.
+
+91
+00:05:01,240 --> 00:05:03,320
+ And luckily last, we have the smash cut.
+
+92
+00:05:03,880 --> 00:05:06,040
+ And this is exactly as it sounds.
+
+93
+00:05:06,040 --> 00:05:09,160
+ It's a harsh, abrupt cut from one scene to the next,
+
+94
+00:05:09,160 --> 00:05:11,400
+ with contrasting visuals and audio.
+
+95
+00:05:11,400 --> 00:05:14,600
+ An example of a smash cut could be a loud, chaotic scene
+
+96
+00:05:14,600 --> 00:05:16,760
+ that suddenly cuts to a quiet, simple one.
+
+97
+00:05:17,480 --> 00:05:19,480
+ Little man, I give the watch to you.
+
+98
+00:05:26,360 --> 00:05:26,760
+ There we go.
+
+99
+00:05:26,760 --> 00:05:30,920
+ That's 10 common editing cuts you can use to help with your storytelling.
+
+100
+00:05:30,920 --> 00:05:34,680
+ To really maximize the impact of your edits and cuts,
+
+101
+00:05:34,680 --> 00:05:38,600
+ take the time to plan and storyboard them before you go out shooting.
+
+102
+00:05:39,160 --> 00:05:43,320
+ If this video helped you at all, subscribe below and I'll see you in the next one.
+
