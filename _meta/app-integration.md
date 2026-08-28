@@ -136,6 +136,13 @@ the wrong word.
 `timebase.md`'s reference implementation already took `fps_num`/`fps_den`; the templates
 lagged behind with a scalar and were corrected on 2026-08-28. The app caught this.
 
+## The profile stage needs a schema, not a sentence
+
+Its exit condition — *every section has numbers, not adjectives* — is not checkable as
+prose. `profile-schema.md` states it field by field: classes, blocking vs warning,
+ten cross-field invariants, and the exact violation strings, with a JSON block a validator
+consumes directly.
+
 ## Counts
 
 **349 rule notes** — EDITING 81 · MOTION 79 · SOUND-DESIGN 137 · SUBTITLES 52. A
