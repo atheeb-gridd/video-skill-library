@@ -1,6 +1,7 @@
 ---
 id: gfx-full-frame-type-card
 title: The full-frame type card — optical centring, measure, and when a card earns the whole frame
+aliases: [gfx-full-frame-statement-card]
 skill: motion
 type: graphic
 family: type-card

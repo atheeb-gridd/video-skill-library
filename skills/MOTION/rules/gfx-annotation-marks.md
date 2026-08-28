@@ -1,6 +1,7 @@
 ---
 id: gfx-annotation-marks
 title: Annotation marks — circle, arrow, underline, strikethrough, and why a perfect circle fails
+aliases: [gfx-annotation-mark-set]
 skill: motion
 type: graphic
 family: annotation

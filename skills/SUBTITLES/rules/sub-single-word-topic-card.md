@@ -134,14 +134,14 @@ Contract points:
 - **GSAP from a local path** — `cdn.jsdelivr.net` is blocked.
 - Named animation rules in the neighbourhood: `kinetic-beat-slam`, `discrete-text-sequence`, `gradient-text-sweep`. **Their recipe files are not staged**, so cite by name only.
 
-**Epidemic Sound.** One impact on the in-frame: `SearchSoundEffects { query: { term: "cinematic impact hit deep" }, filter: { duration: { max: 1500 } } }`. If a riser precedes it, back-time the riser so its peak lands on `T` — see [[sfx-riser-to-drop-alignment]]. Place at −12 to −15 dB per the SFX layer target, and duck the music with `data-fx-carve` rather than baking the level.
+**Epidemic Sound.** One impact on the in-frame: `SearchSoundEffects { query: { term: "cinematic impact hit deep" }, filter: { duration: { max: 1500 } } }`. If a riser precedes it, back-time the riser so its peak lands on `T` — see [[sfx-riser-to-music-drop-backtiming]]. Place at −12 to −15 dB per the SFX layer target, and duck the music with `data-fx-carve` rather than baking the level.
 
 **ffmpeg.** Not the right tool. A `drawtext` with `enable='between(t,6.42,7.6)'` can prove the timing but cannot do the scale settle.
 
 **Remotion.** A `<Sequence>` with `spring()`-driven scale and an `interpolate()` opacity over the same frame range. Concept only; not a runtime in this project.
 
 ## Pairs with
-[[motion-single-word-topic-card]] · [[sub-safe-area-and-caption-zone]] · [[sub-caption-role-decision]] · [[sub-term-definition-lockup]] · [[sfx-cinematic-hit]] · [[sfx-riser-to-drop-alignment]] · [[struct-outcome-first-cold-open]] · [[motion-anticipation-build-to-reveal]]
+[[motion-single-word-topic-card]] · [[sub-safe-area-and-caption-zone]] · [[sub-caption-role-decision]] · [[sub-term-definition-lockup]] · [[sfx-cinematic-hit-emphasis]] · [[sfx-riser-to-music-drop-backtiming]] · [[struct-outcome-first-cold-open]] · [[motion-anticipation-build-to-reveal]]
 
 ## Failure modes
 - **The caption track renders the same word underneath.** The reveal's exclusivity is the whole effect, and this destroys it while looking like a bug. Correction: suppress the track across the hold plus 0.3 s.

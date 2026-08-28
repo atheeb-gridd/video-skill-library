@@ -1,6 +1,7 @@
 ---
 id: gfx-diagram-primitives
 title: Diagram primitives — box, arrow, connector, and the node ceiling in 9:16
+aliases: [gfx-diagram-node-geometry, gfx-diagram-connector-geometry]
 skill: motion
 type: graphic
 family: diagram-system
