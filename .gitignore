@@ -1,25 +1,64 @@
-# ── Reference media — ~410MB of inputs, not library content ───────────
-# The KT videos and extracted audio. Keep them LOCALLY: _meta/visual-kt-delta.md
-# records why they must not be deleted — two of the library's conclusions were
-# corrected by looking at frames, not transcripts. Too big for git; use Git LFS
-# or shared storage if collaborators ever need them.
-assets/videos/
-assets/audio/
+# =====================================================================
+#  What this repo IS: the skill library — rules, contracts, templates.
+#  What this repo is NOT: video footage, renders, or per-video work.
+#
+#  Rules are EXTENSION-based first and path-based second, deliberately.
+#  A path rule only protects folders that exist today; an extension rule
+#  protects you from the folder you create next year.
+# =====================================================================
 
-# Contact sheets: 9MB of derived PNGs, regenerable with the ffmpeg one-liner in
-# _meta/source-media.md. Delete this line if you'd rather version the evidence.
+# ── Media, anywhere in the tree — the hard backstop ──────────────────
+# No video, audio or project file reaches GitHub regardless of location.
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.aiff
+*.flac
+*.prproj      # Premiere
+*.aep         # After Effects
+*.drp         # DaVinci Resolve
+*.fcpbundle   # Final Cut
+*.psd
+*.ai
+*.r3d
+*.braw
+
+# Large images. Contact sheets are regenerable — the ffmpeg one-liner is
+# in _meta/source-media.md. Delete these two lines if you'd rather
+# version the visual evidence; they're ~9MB.
 assets/frames/
+*.tiff
+*.exr
 
-# ── HyperFrames install — upstream, scaffolded, not ours ──────────────
-# Runs entirely through npx (no node_modules), so it re-scaffolds cleanly from
-# its own SETUP.md. Not worth versioning 5.8MB of upstream skill content.
+# ── Per-video work ───────────────────────────────────────────────────
+# Every video edit happens in _projects/<name>/. That is YOUR work, not
+# shared library content, and its footage would dwarf the repo.
+# `**` not `*` — `_projects/*` matches only direct children, so a scratch
+# file one level deeper (e.g. _projects/my-edit/notes.txt) would leak through.
+_projects/**
+
+# EXCEPT the design documents and the build manifest. These are the
+# highest-signal artifact the library produces: proof a rule works, the
+# record of what was decided, and the feedback loop when a rule turns out
+# wrong. Small markdown, worth versioning. Everything else in a project
+# folder — footage, renders, scratch, caches — stays local.
+!_projects/*/
+!_projects/*/design/
+!_projects/*/design/*.md
+!_projects/*/BUILD.md
+!_projects/*/README.md
+
+# ── Style profiles ARE tracked ───────────────────────────────────────
+# A profile is reusable library content, not per-video output. Not ignored.
+# (_profiles/ intentionally absent from this file.)
+
+# ── HyperFrames install — upstream, npx-based, re-scaffolds from SETUP.md ──
 hyperframes/
-
-# ── Per-video output ─────────────────────────────────────────────────
-# Design documents and build manifests for individual videos — ephemeral.
-# NOTE: _profiles/ is deliberately NOT ignored. A style profile is reusable
-# library content and belongs in the repo.
-_projects/
 
 # ── Junk ─────────────────────────────────────────────────────────────
 .DS_Store
@@ -29,3 +68,6 @@ _projects/
 Thumbs.db
 node_modules/
 *.tar.gz
+*.zip
+.env
+.env.*
