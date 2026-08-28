@@ -2,7 +2,7 @@
 name: vault-index
 description: The map of the whole vault — four skill libraries and their indexes, the _meta documents, the templates, and the five pipeline stages. Start here.
 type: index
-count: 327
+count: 349
 ---
 
 # The vault — map
@@ -13,7 +13,7 @@ A skill library that turns **reference videos** into **reproducible edits**. You
 reference video + transcript  ──▶  style profile  ──▶  design documents  ──▶  rendered video
 ```
 
-**327 rule notes** across four libraries. Every note is one technique, and every note carries the same nine sections — including *How to recognise it in a reference video* (which makes analysis possible) and a standalone *Reproduction prompt* (which makes execution possible).
+**349 rule notes** across four libraries. Every note is one technique, and every note carries the same nine sections — including *How to recognise it in a reference video* (which makes analysis possible) and a standalone *Reproduction prompt* (which makes execution possible).
 
 **If you are new:** read `_meta/pipeline.md` first — it is the runtime contract every skill implements. Then open the index of whichever library your problem lives in, and use its **Start here** list.
 
