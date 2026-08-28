@@ -1540,6 +1540,12 @@ Loudness range:       LRA: 5.9 LU     LRA low: -29.5 LUFS   LRA high: -23.6 LUFS
 True peak:            Peak: -18.1 dBFS
 ```
 
+> **On a deliverable, run this on the muxed MP4, not on `mix.wav`.** A dBTP target cannot be guaranteed by anything
+> upstream of the AAC encode — `alimiter` limits *sample* peaks and the encoder adds overshoot of its own. See §7B,
+> *`alimiter`'s `limit` is a sample-peak limit*, for the measured numbers and the guard → mux → measure → correct →
+> re-mux order.
+
+
 **`loudnorm` pass 1 JSON — the exact field names**, since §7's pass-2 command consumes them as placeholders: **[verified]**
 
 ```json
@@ -1854,6 +1860,33 @@ Use the §7 demuxer form when the inputs are already identical in codec and form
 ```bash
 ffmpeg -i in.wav -af "alimiter=limit=0.891:attack=5:release=50:level=disabled" out.wav   # -1 dBFS ceiling
 ```
+
+**`alimiter`'s `limit` is a sample-peak limit, and a true-peak target cannot be guarded on the master WAV.** **[measured
+on real media]** This is the correction that a real build forced, and it invalidates the obvious workflow of limiting the
+mix and calling the number final. Two overshoots stack *after* the master is written:
+
+1. `limit` constrains **sample** peaks. True peak is measured on the 4×-oversampled reconstruction, so inter-sample
+   peaks sit above the last sample the limiter saw. A file held at `limit=0.841` (−1.5 dBFS) can still measure worse
+   than −1.5 dBTP.
+2. The **AAC encode adds its own overshoot** on top of that — lossy quantisation moves waveform peaks, in either
+   direction, and nothing in the audio chain knows it is coming.
+
+The consequence for the pipeline: **the true-peak number moves after the guard runs**, so a guard on `mix.wav` is
+necessary and not sufficient. The order that actually converges is
+
+```
+guard (alimiter / loudnorm TP) → mux → measure ebur128=peak=true on the DELIVERABLE → correct → re-mux
+```
+
+and the re-mux costs almost nothing, because the picture is stream-copied and only the audio is re-encoded (see
+`build-and-render.md` §4). Aiming the guard ~0.5 dB under the target lands about **−1.6 dBTP** against a −1.5 dBTP
+spec on real media.
+
+Two rules follow, and both are the kind that get quietly broken:
+
+- **Measure the deliverable, never the master**, whenever the target is stated in dBTP.
+- **Give the gate no tolerance above the target.** A gate written as "≤ −1.5 dBTP, +0.1 allowed" passes a file measuring
+  −1.4 dBTP — a gate tolerating exactly the failure it exists to catch.
 
 **`acompressor`** — 2 notes. Confirmed options: `level_in`, `mode`, `threshold`, `ratio`, `attack`, `release`, `makeup`, `knee`, `link`, `detection`, `level_sc`, `mix`. **[verified]** `threshold` is linear too (`0.03` ≈ −30 dBFS, `0.125` ≈ −18 dBFS). `attack`/`release` are **milliseconds**.
 

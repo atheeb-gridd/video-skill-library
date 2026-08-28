@@ -393,7 +393,7 @@ every build, not once at the end.
 | # | Gate | Command | Pass |
 |---|---|---|---|
 | 1 | **Frame count + duration identity** | `ffprobe -v error -select_streams v:0 -count_frames -show_entries stream=nb_read_frames,duration -of default=nw=1 deliver.mp4` | `nb_read_frames` **exactly** `output_frames` from `design-cuts.md`; `duration` = `output_frames*fps_den/fps_num`. **[V]** 420 / 14.000000 |
-| 2 | **No duplicated frames** | `ffmpeg -nostdin -hide_banner -i deliver.mp4 -an -vf mpdecimate -f null - 2>&1 \| grep -o "frame= *[0-9]*" \| tail -1` | within a few frames of gate 1. A large drop means an omitted `setpts` **[V]** |
+| 2 | **No duplicated frames** | `ffmpeg -nostdin -hide_banner -i deliver.mp4 -an -vf mpdecimate -f null - 2>&1 \| grep -o "frame= *[0-9]*" \| tail -1` | **≥ 0.80 × gate 1** — not "within a few frames"; see §8.1. A drop past 0.80 means an omitted `setpts` **[V]** |
 | 3 | **Container spec** | `ffprobe -v error -select_streams v:0 -show_entries stream=width,height,pix_fmt,profile,level,r_frame_rate,color_primaries,color_transfer,color_space,color_range -of default=nw=1 deliver.mp4` | `1080/1920/yuv420p/High/40/<edl fps>/bt709/bt709/bt709/tv`, no `unknown` **[V]** |
 | 4 | **faststart** | `python3 -c "d=open('deliver.mp4','rb').read(200000);print(d.find(b'moov'),d.find(b'mdat'))"` | moov offset **<** mdat offset. **[V]** 36 < 15644 |
 | 5 | **A/V alignment** | `ffprobe -v error -show_entries stream=codec_type,start_time,duration -of csv=p=0 deliver.mp4` | audio `start_time` within **±0.0214 s** of video's; audio duration within one AAC frame **[V]** |
@@ -406,3 +406,42 @@ every build, not once at the end.
 | 12 | **Composition gates** | `npm run check`; `npx hyperframes snapshot --at <midpoints>` | 0 findings, and a non-zero `sample(s)` count — `0 sample(s)` means the audits never ran **[C]** |
 | 13 | **Human approval** | — | *Render is user-gated. Do not render on your own initiative.* **[C]** |
 | 14 | **Deviations logged** | `BUILD.md` § Deviations | every difference between design and build, with the reason. A recurring deviation belongs in a rule note or the profile **[C]** |
+
+### 8.1 Gate 2 is calibrated on real footage, not on synthetic content
+
+`mpdecimate` counts the frames it considers *not* near-duplicates of their predecessor. On a synthetic test pattern
+almost every frame differs, so the count lands within a frame or two of gate 1, and "within a few frames" reads like a
+safe criterion. It is not, and an earlier version of this document was wrong to state it.
+
+A talking head holding still produces **legitimate** near-duplicates. Two measurements on real media bracket the
+threshold:
+
+| Case | Gate 1 | After `mpdecimate` | Ratio |
+|---|---|---|---|
+| Clean build, real talking-head footage | 700 | 636 | **0.91** |
+| The defect the gate exists for — omitted `setpts`, frames lost through the concat | 600 | 420 | **0.70** |
+
+**0.80 × gate 1** separates the two with room on both sides. Tightening it back toward 1.0 fails correct output;
+loosening it past 0.70 passes the defect the gate was written to catch.
+
+If a build lands in 0.75–0.85, do not move the threshold — the content is the variable, and a gate that is retuned until
+it passes is a gate tolerating its own failure. Instead run the same command on the **source** keep-ranges concatenated
+with no filter and compare ratios: a source that is itself ~0.85 tells you the footage is unusually static, and gate 8's
+landmark round-trip is then the check that actually proves the frame map.
+
+### 8.2 True peak is a property of the deliverable, not of the master WAV
+
+Gate 6 measures `deliver.mp4`, and that is not a formality. Two overshoots stack after the audio master is written, and
+neither is visible to a measurement taken on the WAV:
+
+1. `alimiter`'s `limit` is a **sample-peak** limit. A signal held at sample peak −1.5 dBFS can already exceed −1.5 dBTP,
+   because true peak is measured on the 4×-oversampled reconstruction between samples.
+2. The **AAC encode adds its own overshoot** on top of that.
+
+So guarding the master WAV cannot hit a true-peak target: the number moves after the guard runs. The order that works is
+**guard → mux → measure on the deliverable → correct → re-mux**, and the re-mux is cheap because the picture is
+stream-copied (§4) — only the audio is re-encoded. On real media this lands about **−1.6 dBTP** against a −1.5 dBTP
+target.
+
+Gate 6 carries **no tolerance** above −1.5. A gate written as "≤ −1.5 dBTP, +0.1 allowed" passes a file measuring −1.4,
+which is the failure the gate exists to catch.

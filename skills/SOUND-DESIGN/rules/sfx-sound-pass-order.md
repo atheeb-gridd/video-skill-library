@@ -164,7 +164,10 @@ explicitly marked "silent - <reason>", and no sound exists that is not on the
 list; (b) layer census - pick any 60 seconds and confirm the layer count matches
 the format (4-5 for a produced explainer, 2-3 for a talking head); (c) no gap
 sits at digital silence; (d) measured levels match the table within 3 dB;
-(e) programme loudness within 1 LU of target and true peak under -1.5 dBTP;
+(e) programme loudness within 1 LU of target and true peak under -1.5 dBTP,
+MEASURED ON THE MUXED DELIVERABLE, not on the master WAV - alimiter limits
+sample peaks and the AAC encode adds overshoot, so the true-peak number moves
+after the guard runs (guard -> mux -> measure -> correct -> re-mux);
 (f) on the phone-speaker check, every word is intelligible with the music in -
 if not, raise the carve strength before lowering the bed; (g) the passes appear
 as separate rows in the build manifest with their own status fields.
