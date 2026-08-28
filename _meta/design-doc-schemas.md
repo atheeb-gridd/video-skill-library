@@ -31,6 +31,7 @@ only adds the per-document field sets and invariants.
 | `trigger` | `prose!` | the cut, word or beat it keys off |
 | `channel_justification` | `prose!` | what this carries that the caption does not |
 | `acceptance_test` | `prose!` | the frame range to inspect and what must be true in it |
+| `box` | `numeric4?` | **optional.** `x,y,w,h` as percentages of frame, the screen area the event occupies. Optional because most motion notes describe *how* a thing moves, not *where* it sits — but C6 cannot be enforced without it (see below) |
 
 Property track rows each need `property`, `from`, `to`, `start`, `duration`, `easing` — all
 present, `duration ≥ 1`.
@@ -104,6 +105,7 @@ present, `duration ≥ 1`.
 | C4 | concatenated `text` matches the re-timed transcript verbatim, modulo logged ASR corrections | silent rewrites are a correctness bug |
 | C5 | emphasised words ≤ 15% of total | above that, emphasis means nothing |
 | C6 | no cue collides in time **and** space with a `design-motion.md` event | the commonest avoidable defect |
+| C6a | an event sharing a caption's time window with **no `box`** is *reported*, not failed | space is unknown, so a fail would be a guess. The report is the prompt to add a `box` |
 | C7 | `outIn < outOut`, cues non-overlapping and ascending | |
 | C8 | cues derive from the **re-timed** transcript, not the source one | the two-clock rule, at the caption layer |
 
@@ -152,3 +154,19 @@ production* — but not without being *built*. M6/S8 and C6 are cross-document i
 the sound gate cannot be honestly implemented before motion emits its pairings, and the
 subtitle collision check needs real motion events. Build in the pipeline's own order:
 motion, then sound, then subtitles, then build.
+
+## C6 needs a field motion did not have
+
+C6 says *time **and** space*, and the motion schema originally carried no position of any kind — so an implementation
+had two bad options: fail every time-overlap (false positives on events nowhere near the caption band), or drop the
+space half (and stop catching the defect). `box` above is the resolution, and it is **optional on purpose**: most motion
+notes govern movement, not placement, and forcing a position into every event would invite invented numbers, which is
+worse than a missing one.
+
+So C6 has two behaviours, and both must be implemented:
+
+- **`box` present on the event** → real time-and-space check. Overlap in both dimensions is a **failure**.
+- **`box` absent** → time overlap alone is a **report**, naming the event and the cue, and the design document is not
+  blocked. Silence here would be wrong too: the reader needs to know a collision *may* exist.
+
+An event that keeps getting reported is the signal to give it a `box`, not to weaken C6.
