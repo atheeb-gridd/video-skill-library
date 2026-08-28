@@ -45,7 +45,7 @@ Probe the footage. **Read fps per file, never assume it** — measuring a 60fps 
 
 Fallbacks, because the user may not supply everything:
 - No separate audio → extract it from the video.
-- No transcript → generate one, then force-align for word-level timings.
+- No transcript → generate one with `scripts/transcribe.sh <audio> --hinglish` (the flags matter: forced language, `-mc 0` to kill repetition loops, `-ml 140` to stop 30-second monolith cues), then force-align for word-level timings.
 - Transcript without word-level timings → force-align against the audio.
 
 ### C — Design, in this order
