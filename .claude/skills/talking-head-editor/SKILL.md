@@ -15,6 +15,20 @@ This skill sits on top of the rule library in the vault. It does not restate the
 
 **2. Two clocks.** Cuts are designed in **source** timecode. Sound, captions and motion are designed in **output** timecode, and only after the cut list is locked. Remove 3.2s of pauses and every sound effect after that point lands 3.2s late — and it reads as *bad sound design*, not as a bug, which is why it survives review. `references/timebase.md` is not optional reading.
 
+## Where these paths resolve
+
+Two roots, and confusing them fails silently — the model reports a file as missing while it
+was readable the whole time.
+
+| Written as | Resolves from |
+|---|---|
+| `_meta/…` `_templates/…` `skills/…` `_profiles/…` `_projects/…` | your **cwd** — the vault root, or a project that mounts them |
+| `references/…` `scripts/…` | **this skill's own directory** |
+
+**Do not `cd`.** Searching only the skill directory is what makes a readable file look
+absent. If a vault-root path appears missing, you have changed directory — do not conclude
+the file is not there.
+
 ## Route first
 
 | The user gives you | Go |

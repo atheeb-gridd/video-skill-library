@@ -71,6 +71,34 @@ in the project. Symlinks are read-only in practice; nothing writes through them.
 **Do not** symlink `_profiles/` or `_projects/` — the library has its own and they would
 collide with the project's.
 
+## A correct mount is necessary, not sufficient
+
+Found by the app build, 2026-08-28, and it is the more important half of this document.
+
+With the mount correct and **both files readable**, the model invoked the skill, `cd`'d into
+the skill directory, searched only there, and reported `_meta/execution-contract.md` as
+nonexistent.
+
+| Path | Resolves via |
+|---|---|
+| `<project>/_meta/execution-contract.md` | the `_meta` mount |
+| `<skill>/../../../_meta/…` | the skill physically lives inside the vault |
+
+Both worked the whole time. The failure was **search strategy, not wiring** — but from the
+output it is indistinguishable from a broken mount, which puts it in the same silent class
+as PIT-V1. Wiring the mount correctly and stopping there leaves the bug intact.
+
+Adding this to the stage prompt, and changing nothing else, returned both headings:
+
+> Vault-root paths (`_meta/`, `_templates/`, `skills/`) resolve from your cwd. Paths the
+> skill uses for its own bundled files (`references/`, `scripts/`) resolve inside the skill
+> directory. **Do not `cd`.**
+
+`Do not cd` is the load-bearing clause. The same contract is now stated inside each skill's
+own SKILL.md so it travels with the skill rather than depending on every consumer to inject
+it — but a consumer that also puts it in the stage prompt is belt and braces, and worth it
+given the failure is silent.
+
 ## Path mismatch to resolve explicitly
 
 `talking-head-editor` writes its profile to `_profiles/<name>/PROFILE.md`. The app's PRD

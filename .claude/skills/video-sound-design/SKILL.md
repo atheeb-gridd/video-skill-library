@@ -9,6 +9,11 @@ The real library lives in the visible vault so it is browsable, taggable and lin
 
 **Read these now, in order:**
 
+> **Paths below resolve from your cwd, not from this file's directory. Do not `cd`** — a
+> vault-root path that looks missing usually means you changed directory, not that the file
+> is absent.
+
+
 1. `skills/SOUND-DESIGN/SKILL.md` — the two frameworks (three styles, five layers), the routing logic and the two modes
 2. `_meta/pipeline.md` — the five-stage contract
 3. `_meta/tags.md` — the closed tag vocabulary

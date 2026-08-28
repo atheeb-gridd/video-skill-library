@@ -9,6 +9,11 @@ The real library lives in the visible vault so it is browsable, taggable and lin
 
 **Read these now, in order:**
 
+> **Paths below resolve from your cwd, not from this file's directory. Do not `cd`** — a
+> vault-root path that looks missing usually means you changed directory, not that the file
+> is absent.
+
+
 1. `skills/SUBTITLES/SKILL.md` — the routing logic and the two modes
 2. `_meta/execution-contract.md` — the real HyperFrames caption mechanics and typography. **Required** before writing any caption spec.
 3. `_meta/pipeline.md` — the five-stage contract
