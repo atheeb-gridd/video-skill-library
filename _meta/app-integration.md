@@ -30,7 +30,7 @@ discovery. Discovery comes from `settingSources`.
 _meta/pipeline.md          _meta/execution-contract.md      _meta/tags.md
 _templates/design-cuts.md  _templates/style-profile.md
 skills/EDITING/rules/      skills/MOTION/SKILL.md           ...
-references/timebase.md     scripts/ingest.sh
+skills/EDITING/rules/      skills/MOTION/SKILL.md           ...
 ```
 
 So symlinking only `.claude` into a project folder and setting `cwd` to that project makes
@@ -53,13 +53,17 @@ Per project, alongside `.claude`:
 ├── _meta        -> <library>/_meta          # resolution
 ├── _templates   -> <library>/_templates     # resolution
 ├── skills       -> <library>/skills         # resolution
-├── references   -> <library>/.claude/skills/talking-head-editor/references
-├── scripts      -> <library>/scripts
 ├── rules/                                   # REAL — this project's derived rules
 ├── _profiles/                               # REAL — not the library's
 ├── _projects/                               # REAL — not the library's
 └── edits/
 ```
+
+**`references/…` and `scripts/…` are the exception — do NOT symlink those.** Paths a
+SKILL.md uses for its own bundled files resolve relative to the **skill directory**, which
+the symlinked `.claude` already provides. Creating `references` or `scripts` at the project
+root is unnecessary and risks shadowing. Only the *vault-root*-relative paths above need
+mounting.
 
 `cwd` stays the project folder, so design documents keep writing relative paths that land
 in the project. Symlinks are read-only in practice; nothing writes through them.
@@ -79,12 +83,12 @@ default. Silence here means two profile locations and neither authoritative.
 Two things the app is likely to rewrite from scratch that already exist, verified by
 execution:
 
-- **`references/timebase.md`** — the keep-list model, `src_to_out` / `out_to_src`, and the
+- **`references/timebase.md`** (skill-relative) — the keep-list model, `src_to_out` / `out_to_src`, and the
   invariants a `timeline.json` validator needs. Carries measured findings: stream copy
   returned **3.251 s for a requested 2.000 s**; `select`'s `between()` is inclusive on both
   ends so the frame-accurate form is `between(n, a, b-1)`; omitting `setpts` does not drift
   a cut, it **cancels** it (420 frames became 600).
-- **`scripts/ingest.sh`** — ffprobe of real fps, audio extraction at both 16k mono and 48k
+- **`scripts/ingest.sh`** (skill-relative) — ffprobe of real fps, audio extraction at both 16k mono and 48k
   stereo, loudness, and silence detection for the subtractive pass. Note the trap it
   documents: `-v error` silences `silencedetect`, so the dead-air check returns `0.000`
   with no error at all.
@@ -94,3 +98,9 @@ execution:
 **349 rule notes** — EDITING 81 · MOTION 79 · SOUND-DESIGN 137 · SUBTITLES 52. A
 `find`-based count of `*.md` returns 359 because each library also holds `SKILL.md`,
 `INDEX.md` and `_kt/` extraction notes. Only `skills/*/rules/*.md` are rule notes.
+- **`scripts/transcribe.sh`** (skill-relative) — whisper.cpp wrapper for when no transcript
+  is supplied. Its `--hinglish` flags are load-bearing on code-mixed sources: `-l hi` stops
+  mid-file language drift, `-mc 0` kills repetition loops, `-bs 5` beats greedy decoding on
+  code-mixed speech, and `-ml 140` prevents 30-second monolith cues. Re-running with these
+  recovered ~12% more speech on this project's own sources. Output is **cue-level**, not
+  word-level — force-align before the subtitle pass.
