@@ -69,6 +69,44 @@ confidence: {{high|medium|sparse}}
 
 **Palette:** the recurring sounds, with their Epidemic queries, so the same sonic identity is reachable next time.
 
+## Visual system
+
+The style-level design language every graphic in this style is built from. Defined once here, referenced by every `design-motion.md`. Sizes are **% of frame height**, never points — a point size does not survive an aspect change. See `[[gfx-modular-type-scale]]`.
+
+| | |
+|---|---|
+| Type scale ratio + steps | {{1.25 · 2.2 / 2.8 / 3.5 / 4.4 / 5.5 %H}} |
+| Display / body face + weight | {{}} |
+| Ground | {{hex}} |
+| Ink | {{hex}} |
+| Accent (exactly one) | {{hex}} |
+| Contrast floor over footage | {{ratio, and the backing used to reach it — [[gfx-plate-and-scrim-ladder]]}} |
+| Margin (% of frame width) | {{}} |
+| Grid columns / gutter | {{}} |
+| Stroke weight @1080w | {{px}} |
+| Corner radius | {{px, and whether it scales with the element}} |
+| Icon style + weight match | {{}} |
+
+**Component vocabulary** — which of these the style actually uses, and its variant:
+
+| Component | Used | Notes |
+|---|---|---|
+| Label / callout `[[gfx-label-callout-over-footage]]` | | |
+| Lower third `[[gfx-lower-third-anatomy]]` | | |
+| Stat card `[[gfx-stat-card-layout]]` | | |
+| List card `[[gfx-list-card-enumeration]]` | | |
+| Two-column comparison `[[gfx-comparison-two-column-card]]` | | |
+| Quote card `[[gfx-quote-card]]` | | |
+
+**Channel balance** — how much work graphics do versus captions in this style. Measure it; do not assume. See `[[gfx-three-channel-division-of-labour]]`.
+
+| | |
+|---|---|
+| Graphic events per minute | {{}} |
+| Beats carried by caption alone | {{%}} |
+| Beats carrying a graphic that adds structure/quantity/relation | {{%}} |
+| Observed prose duplication (caption and graphic saying the same words) | {{% — if this is high the reference is doing it badly; do not reproduce it}} |
+
 ## Caption identity
 
 | | |

@@ -55,6 +55,9 @@ Runs **after** cuts — motion timing keys off cut boundaries.
 | Animate this text | `type/type-motion` |
 | Push in, zoom, pan | `type/camera` |
 | Reveal a stat, chart, logo | `type/graphic` |
+| **What should this element look like?** | the `gfx-` design layer — type scale, palette, grid, components. Design the component BEFORE specifying its motion; you cannot animate an element that does not exist. |
+| Does this beat need a graphic at all? | `[[gfx-channel-decision-procedure]]` |
+| Will this graphic repeat the caption? | `[[gfx-three-channel-division-of-labour]]` |
 | Get from scene A to scene B with movement | `type/transition` + the transition registry in `_meta/execution-contract.md` |
 | What does this movement sound like? | `skills/SOUND-DESIGN/rules/` filtered `sfx/motion` |
 | Teach an edit — show the cut, not just the result | [[motion-timeline-overlay-explainer]], and [[motion-two-track-offset-diagram]] for J/L |

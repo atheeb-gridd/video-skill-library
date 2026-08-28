@@ -26,6 +26,18 @@ One block per motion event. Copy the **Reproduction prompt** from the cited rule
 
 ### M1 — {{element}} @ {{00:00:02:12}}
 
+- **Component:** `[[gfx-…]]` — what this element IS, before how it moves.
+
+  | | |
+  |---|---|
+  | Type step / size | {{%H}} |
+  | Colour role | {{ground / ink / accent}} |
+  | Backing | {{none / scrim / plate — [[gfx-plate-and-scrim-ladder]]}} |
+  | Position + margin | {{}} |
+  | Measured contrast over its footage | {{ratio}} |
+
+- **Channel justification:** what does this graphic carry that the caption does not? Structure, quantity, relation, comparison, or the referent. If the answer is "it shows the words being spoken", **delete the row** — see `[[gfx-three-channel-division-of-labour]]`.
+
 - **Rule:** `[[motion-…]]`
 - **Trigger:** {{the cut, word or beat this keys off}}
 - **Property track:**
@@ -57,6 +69,15 @@ One block per motion event. Copy the **Reproduction prompt** from the cited rule
 |---|---|---|---|
 | Motion events per minute | | | |
 | Longest gap without motion | | | |
+
+## Channel check
+
+Run before the design doc is submitted. Spatial collision is checked in `design-subtitles.md`; this is the *semantic* check and they are different problems.
+
+- [ ] No graphic restates the words the caption is showing at the same timecode (`[[gfx-three-channel-division-of-labour]]`)
+- [ ] Duplication that IS present is structural — an ordinal or number spoken and shown — not prose (`[[gfx-structure-duplicates-prose-does-not]]`)
+- [ ] No moment exceeds the attention budget: face + caption + graphic competing (`[[gfx-attention-budget-simultaneity]]`)
+- [ ] Every graphic passes the cover test: hide it — does the viewer lose information? If not, cut it.
 
 ## Constraints honoured
 
